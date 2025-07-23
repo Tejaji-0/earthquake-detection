@@ -4,13 +4,14 @@ import { loadEarthquakeData, filterEarthquakeData } from './utils/dataLoader';
 import FilterPanel from './components/FilterPanel';
 import EarthquakeTable from './components/EarthquakeTable';
 import EarthquakeCharts from './components/EarthquakeCharts';
-import { Activity, BarChart3, Table } from 'lucide-react';
+import EventAnalysis from './components/EventAnalysis';
+import { Activity, BarChart3, Table, Zap } from 'lucide-react';
 import './App.css';
 
 function App() {
   const [earthquakeData, setEarthquakeData] = useState<EarthquakeData[]>([]);
   const [loading, setLoading] = useState(true);
-  const [activeTab, setActiveTab] = useState<'overview' | 'table'>('overview');
+  const [activeTab, setActiveTab] = useState<'overview' | 'table' | 'analysis'>('overview');
   const [filters, setFilters] = useState<FilterOptions>({
     minMagnitude: 6.5,
     maxMagnitude: 9.5,
@@ -83,13 +84,22 @@ function App() {
               <Table size={20} />
               Data Table
             </button>
+            <button
+              className={`tab-button ${activeTab === 'analysis' ? 'active' : ''}`}
+              onClick={() => setActiveTab('analysis')}
+            >
+              <Zap size={20} />
+              Event Analysis
+            </button>
           </div>
 
           <div className="tab-content">
             {activeTab === 'overview' ? (
               <EarthquakeCharts data={filteredData} />
-            ) : (
+            ) : activeTab === 'table' ? (
               <EarthquakeTable data={filteredData} />
+            ) : (
+              <EventAnalysis />
             )}
           </div>
         </div>
