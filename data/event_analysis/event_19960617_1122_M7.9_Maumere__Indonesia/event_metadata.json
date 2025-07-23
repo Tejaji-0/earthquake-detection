@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 169 km NNE of Maumere, Indonesia",
+    "magnitude": 7.9,
+    "date_time": "1996-06-17T11:22:00",
+    "latitude": -7.137,
+    "longitude": 122.589,
+    "location": "Maumere, Indonesia",
+    "depth": 587.3,
+    "significance": 960
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

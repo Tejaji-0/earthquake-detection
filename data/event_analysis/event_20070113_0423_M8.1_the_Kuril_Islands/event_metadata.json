@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.1 - east of the Kuril Islands",
+    "magnitude": 8.1,
+    "date_time": "2007-01-13T04:23:00",
+    "latitude": 46.243,
+    "longitude": 154.524,
+    "location": "the Kuril Islands",
+    "depth": 10.0,
+    "significance": 1034
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

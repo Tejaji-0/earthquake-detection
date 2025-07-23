@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 38 km NE of Saryg-Sep, Russia",
+    "magnitude": 6.7,
+    "date_time": "2012-02-26T06:17:00",
+    "latitude": 51.708,
+    "longitude": 95.991,
+    "location": "Saryg-Sep, Russia",
+    "depth": 12.0,
+    "significance": 833
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

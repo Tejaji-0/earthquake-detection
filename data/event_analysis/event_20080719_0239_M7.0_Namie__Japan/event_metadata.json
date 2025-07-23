@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 107 km E of Namie, Japan",
+    "magnitude": 7.0,
+    "date_time": "2008-07-19T02:39:00",
+    "latitude": 37.552,
+    "longitude": 142.214,
+    "location": "Namie, Japan",
+    "depth": 22.0,
+    "significance": 840
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 61 km NW of Santa Cruz, Chile",
+    "magnitude": 6.9,
+    "date_time": "2010-03-11T14:39:00",
+    "latitude": -34.29,
+    "longitude": -71.891,
+    "location": "Santa Cruz, Chile",
+    "depth": 11.0,
+    "significance": 1280
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 2
+  }
+}

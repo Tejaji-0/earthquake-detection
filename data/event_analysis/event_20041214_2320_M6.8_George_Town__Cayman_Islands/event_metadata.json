@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 36 km S of George Town, Cayman Islands",
+    "magnitude": 6.8,
+    "date_time": "2004-12-14T23:20:00",
+    "latitude": 18.958,
+    "longitude": -81.409,
+    "location": "George Town, Cayman Islands",
+    "depth": 10.0,
+    "significance": 858
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

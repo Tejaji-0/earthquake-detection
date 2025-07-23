@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 238 km ESE of Tadine, New Caledonia",
+    "magnitude": 7.1,
+    "date_time": "2018-08-29T03:51:00",
+    "latitude": -22.0295,
+    "longitude": 170.126,
+    "location": "Tadine, New Caledonia",
+    "depth": 21.43,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 4 km S of Pinotepa de Don Luis, Mexico",
+    "magnitude": 7.2,
+    "date_time": "2018-02-16T23:39:00",
+    "latitude": 16.3855,
+    "longitude": -97.9787,
+    "location": "Pinotepa de Don Luis, Mexico",
+    "depth": 22.0,
+    "significance": 1384
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

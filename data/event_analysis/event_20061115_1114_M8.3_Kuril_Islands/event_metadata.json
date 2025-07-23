@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.3 - Kuril Islands",
+    "magnitude": 8.3,
+    "date_time": "2006-11-15T11:14:00",
+    "latitude": 46.592,
+    "longitude": 153.266,
+    "location": "Kuril Islands",
+    "depth": 10.0,
+    "significance": 1064
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

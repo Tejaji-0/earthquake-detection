@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 126 km S of Puerto El Triunfo, El Salvador",
+    "magnitude": 7.3,
+    "date_time": "2012-08-27T04:37:00",
+    "latitude": 12.139,
+    "longitude": -88.59,
+    "location": "Puerto El Triunfo, El Salvador",
+    "depth": 28.0,
+    "significance": 994
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

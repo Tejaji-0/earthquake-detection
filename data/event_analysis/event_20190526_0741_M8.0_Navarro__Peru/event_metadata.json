@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.0 - 78 km NE of Navarro, Peru",
+    "magnitude": 8.0,
+    "date_time": "2019-05-26T07:41:00",
+    "latitude": -5.8119,
+    "longitude": -75.2697,
+    "location": "Navarro, Peru",
+    "depth": 122.57,
+    "significance": 1890
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

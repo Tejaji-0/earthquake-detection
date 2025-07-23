@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 24 km WSW of Mizusawa, Japan",
+    "magnitude": 6.9,
+    "date_time": "2008-06-13T23:43:00",
+    "latitude": 39.03,
+    "longitude": 140.881,
+    "location": "Mizusawa, Japan",
+    "depth": 7.8,
+    "significance": 888
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

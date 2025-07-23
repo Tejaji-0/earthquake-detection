@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 32 km SW of Tari, Papua New Guinea",
+    "magnitude": 7.5,
+    "date_time": "2018-02-25T17:44:00",
+    "latitude": -6.0699,
+    "longitude": 142.754,
+    "location": "Tari, Papua New Guinea",
+    "depth": 25.21,
+    "significance": 943
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.0 - 47 km SSE of Pangai, Tonga",
+    "magnitude": 8.0,
+    "date_time": "2006-05-03T15:26:00",
+    "latitude": -20.187,
+    "longitude": -174.123,
+    "location": "Pangai, Tonga",
+    "depth": 55.0,
+    "significance": 1013
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

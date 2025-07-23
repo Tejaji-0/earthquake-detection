@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 111km ESE of Palora, Ecuador",
+    "magnitude": 7.5,
+    "date_time": "2019-02-22T10:17:00",
+    "latitude": -2.1862,
+    "longitude": -77.0505,
+    "location": "Palora, Ecuador",
+    "depth": 145.0,
+    "significance": 1145
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

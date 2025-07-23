@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - southeast of the Loyalty Islands",
+    "magnitude": 7.2,
+    "date_time": "2016-08-12T01:26:00",
+    "latitude": -22.4765,
+    "longitude": 173.117,
+    "location": "the Loyalty Islands",
+    "depth": 16.37,
+    "significance": 799
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

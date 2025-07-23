@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 18km W of Searles Valley, CA",
+    "magnitude": 7.1,
+    "date_time": "2019-07-06T03:19:00",
+    "latitude": 35.7695,
+    "longitude": -117.599,
+    "location": "Searles Valley, CA",
+    "depth": 8.0,
+    "significance": 1646
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

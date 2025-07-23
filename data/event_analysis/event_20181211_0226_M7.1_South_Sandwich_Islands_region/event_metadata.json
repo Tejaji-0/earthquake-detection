@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - South Sandwich Islands region",
+    "magnitude": 7.1,
+    "date_time": "2018-12-11T02:26:00",
+    "latitude": -58.5446,
+    "longitude": -26.3856,
+    "location": "South Sandwich Islands region",
+    "depth": 133.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

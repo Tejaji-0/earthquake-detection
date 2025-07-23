@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 135 km NW of Gorontalo, Indonesia",
+    "magnitude": 7.4,
+    "date_time": "2008-11-16T17:02:00",
+    "latitude": 1.271,
+    "longitude": 122.091,
+    "location": "Gorontalo, Indonesia",
+    "depth": 30.0,
+    "significance": 848
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

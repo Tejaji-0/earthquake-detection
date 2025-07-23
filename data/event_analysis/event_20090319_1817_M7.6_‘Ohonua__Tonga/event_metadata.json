@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 191 km S of \u2018Ohonua, Tonga",
+    "magnitude": 7.6,
+    "date_time": "2009-03-19T18:17:00",
+    "latitude": -23.043,
+    "longitude": -174.66,
+    "location": "\u2018Ohonua, Tonga",
+    "depth": 31.0,
+    "significance": 916
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

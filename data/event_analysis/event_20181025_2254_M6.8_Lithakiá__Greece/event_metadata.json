@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 32 km SW of Lithaki\u00e1, Greece",
+    "magnitude": 6.8,
+    "date_time": "2018-10-25T22:54:00",
+    "latitude": 37.5203,
+    "longitude": 20.5565,
+    "location": "Lithaki\u00e1, Greece",
+    "depth": 14.0,
+    "significance": 954
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

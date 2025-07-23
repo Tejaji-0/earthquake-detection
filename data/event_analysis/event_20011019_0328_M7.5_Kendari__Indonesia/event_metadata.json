@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 155 km E of Kendari, Indonesia",
+    "magnitude": 7.5,
+    "date_time": "2001-10-19T03:28:00",
+    "latitude": -4.102,
+    "longitude": 123.907,
+    "location": "Kendari, Indonesia",
+    "depth": 33.0,
+    "significance": 865
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

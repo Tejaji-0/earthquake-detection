@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 103 km S of Bengkulu, Indonesia",
+    "magnitude": 7.9,
+    "date_time": "2000-06-04T16:28:00",
+    "latitude": -4.721,
+    "longitude": 102.087,
+    "location": "Bengkulu, Indonesia",
+    "depth": 33.0,
+    "significance": 960
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

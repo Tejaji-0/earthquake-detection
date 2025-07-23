@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 75 km E of Cantwell, Alaska",
+    "magnitude": 7.9,
+    "date_time": "2002-11-03T22:12:00",
+    "latitude": 63.5141,
+    "longitude": -147.453,
+    "location": "Cantwell, Alaska",
+    "depth": 4.2,
+    "significance": 1750
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

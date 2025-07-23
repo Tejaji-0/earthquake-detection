@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 25 km SSE of Wau, Papua New Guinea",
+    "magnitude": 7.1,
+    "date_time": "2011-12-14T05:04:00",
+    "latitude": -7.551,
+    "longitude": 146.809,
+    "location": "Wau, Papua New Guinea",
+    "depth": 135.0,
+    "significance": 834
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

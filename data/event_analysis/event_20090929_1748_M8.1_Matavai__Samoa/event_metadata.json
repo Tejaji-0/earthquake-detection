@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.1 - 168 km SSW of Matavai, Samoa",
+    "magnitude": 8.1,
+    "date_time": "2009-09-29T17:48:00",
+    "latitude": -15.489,
+    "longitude": -172.095,
+    "location": "Matavai, Samoa",
+    "depth": 18.0,
+    "significance": 1055
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 95 km ENE of Kuril\u2019sk, Russia",
+    "magnitude": 7.0,
+    "date_time": "2020-02-13T10:33:00",
+    "latitude": 45.6161,
+    "longitude": 148.959,
+    "location": "Kuril\u2019sk, Russia",
+    "depth": 143.0,
+    "significance": 770
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 66 km SSW of Banjar, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2009-09-02T07:55:00",
+    "latitude": -7.782,
+    "longitude": 107.297,
+    "location": "Banjar, Indonesia",
+    "depth": 46.0,
+    "significance": 1175
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

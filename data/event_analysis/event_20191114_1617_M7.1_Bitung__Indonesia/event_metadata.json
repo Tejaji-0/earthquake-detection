@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 138km E of Bitung, Indonesia",
+    "magnitude": 7.1,
+    "date_time": "2019-11-14T16:17:00",
+    "latitude": 1.6213,
+    "longitude": 126.416,
+    "location": "Bitung, Indonesia",
+    "depth": 33.0,
+    "significance": 799
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

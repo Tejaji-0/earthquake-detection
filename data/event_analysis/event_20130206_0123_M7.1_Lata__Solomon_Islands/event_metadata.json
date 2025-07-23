@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 112 km WSW of Lata, Solomon Islands",
+    "magnitude": 7.1,
+    "date_time": "2013-02-06T01:23:00",
+    "latitude": -11.183,
+    "longitude": 164.882,
+    "location": "Lata, Solomon Islands",
+    "depth": 10.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 5
+  }
+}

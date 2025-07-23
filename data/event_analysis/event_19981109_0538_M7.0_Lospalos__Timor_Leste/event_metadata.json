@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 278 km NE of Lospalos, Timor Leste",
+    "magnitude": 7.0,
+    "date_time": "1998-11-09T05:38:00",
+    "latitude": -6.92,
+    "longitude": 128.946,
+    "location": "Lospalos, Timor Leste",
+    "depth": 33.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

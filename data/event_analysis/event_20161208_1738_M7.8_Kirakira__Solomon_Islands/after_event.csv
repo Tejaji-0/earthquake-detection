@@ -1,0 +1,3 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 79 km WSW of Kirakira, Solomon Islands",6.5,2016-12-08 21:56:00,0,5,green,0,650,us,0,1.937,18.0,mww,12.26,-10.8416,161.314,"Kirakira, Solomon Islands",,
+"M 6.9 - 92 km WSW of Kirakira, Solomon Islands",6.9,2016-12-09 19:10:00,8,6,green,1,737,us,0,1.747,26.0,mww,19.73,-10.749,161.132,"Kirakira, Solomon Islands",,

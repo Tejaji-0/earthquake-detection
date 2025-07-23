@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 123 km WSW of Puerto Santa, Peru",
+    "magnitude": 7.5,
+    "date_time": "1996-02-21T12:51:00",
+    "latitude": -9.593,
+    "longitude": -79.587,
+    "location": "Puerto Santa, Peru",
+    "depth": 10.0,
+    "significance": 865
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

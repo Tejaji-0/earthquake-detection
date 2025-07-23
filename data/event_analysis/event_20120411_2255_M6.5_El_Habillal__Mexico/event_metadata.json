@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 41 km NW of El Habillal, Mexico",
+    "magnitude": 6.5,
+    "date_time": "2012-04-11T22:55:00",
+    "latitude": 18.229,
+    "longitude": -102.689,
+    "location": "El Habillal, Mexico",
+    "depth": 20.0,
+    "significance": 1171
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

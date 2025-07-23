@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 27 km ESE of Chitose, Japan",
+    "magnitude": 6.6,
+    "date_time": "2018-09-05T18:07:00",
+    "latitude": 42.6861,
+    "longitude": 141.929,
+    "location": "Chitose, Japan",
+    "depth": 35.0,
+    "significance": 1075
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

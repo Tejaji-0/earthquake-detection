@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - Flores Sea",
+    "magnitude": 7.3,
+    "date_time": "2021-12-14T03:20:00",
+    "latitude": -7.6033,
+    "longitude": 122.2,
+    "location": "Flores Sea",
+    "depth": 14.27,
+    "significance": 854
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

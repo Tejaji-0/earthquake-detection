@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 156 km SSW of Puerto El Triunfo, El Salvador",
+    "magnitude": 6.9,
+    "date_time": "2016-11-24T18:43:00",
+    "latitude": 11.9097,
+    "longitude": -88.8968,
+    "location": "Puerto El Triunfo, El Salvador",
+    "depth": 10.0,
+    "significance": 855
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

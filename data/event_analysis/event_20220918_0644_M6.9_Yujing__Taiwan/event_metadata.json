@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 90 km E of Yujing, Taiwan",
+    "magnitude": 6.9,
+    "date_time": "2022-09-18T06:44:00",
+    "latitude": 23.1444,
+    "longitude": 121.307,
+    "location": "Yujing, Taiwan",
+    "depth": 10.0,
+    "significance": 887
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

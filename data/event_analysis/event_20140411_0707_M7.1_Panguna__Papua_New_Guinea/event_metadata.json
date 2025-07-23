@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 56 km WSW of Panguna, Papua New Guinea",
+    "magnitude": 7.1,
+    "date_time": "2014-04-11T07:07:00",
+    "latitude": -6.5858,
+    "longitude": 155.048,
+    "location": "Panguna, Papua New Guinea",
+    "depth": 60.53,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 3
+  }
+}

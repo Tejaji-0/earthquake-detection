@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 87 km SW of Sungai Penuh, Indonesia",
+    "magnitude": 7.9,
+    "date_time": "2007-09-12T23:49:00",
+    "latitude": -2.625,
+    "longitude": 100.841,
+    "location": "Sungai Penuh, Indonesia",
+    "depth": 35.0,
+    "significance": 1133
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 3
+  }
+}

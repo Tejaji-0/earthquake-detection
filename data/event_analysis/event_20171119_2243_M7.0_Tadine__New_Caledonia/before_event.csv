@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.7 - 132 km E of Tadine, New Caledonia",6.7,2017-10-31 00:42:00,3,4,green,1,691,us,0,1.062,55.0,mww,24.0,-21.6971,169.148,"Tadine, New Caledonia",,
+"M 6.6 - 101 km E of Tadine, New Caledonia",6.6,2017-11-01 02:23:00,3,5,green,1,674,us,0,0.788,29.0,mww,22.0,-21.6484,168.859,"Tadine, New Caledonia",,
+"M 6.6 - 74 km E of Tadine, New Caledonia",6.6,2017-11-19 15:09:00,4,5,green,1,676,us,0,0.529,21.0,mww,13.0,-21.5027,168.598,"Tadine, New Caledonia",,

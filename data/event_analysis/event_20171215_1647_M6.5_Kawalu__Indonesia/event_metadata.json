@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 12 km SSW of Kawalu, Indonesia",
+    "magnitude": 6.5,
+    "date_time": "2017-12-15T16:47:00",
+    "latitude": -7.4921,
+    "longitude": 108.174,
+    "location": "Kawalu, Indonesia",
+    "depth": 90.0,
+    "significance": 998
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

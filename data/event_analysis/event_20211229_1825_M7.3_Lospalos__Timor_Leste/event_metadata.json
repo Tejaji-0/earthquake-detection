@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 125 km NNE of Lospalos, Timor Leste",
+    "magnitude": 7.3,
+    "date_time": "2021-12-29T18:25:00",
+    "latitude": -7.5924,
+    "longitude": 127.581,
+    "location": "Lospalos, Timor Leste",
+    "depth": 165.49,
+    "significance": 921
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

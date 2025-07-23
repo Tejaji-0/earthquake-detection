@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 78 km SW of Panguna, Papua New Guinea",6.5,2014-04-11 08:16:00,0,6,green,1,650,us,0,3.787,16.0,mww,20.0,-6.7878,154.95,"Panguna, Papua New Guinea",,
+"M 6.6 - 57 km SW of Panguna, Papua New Guinea",6.6,2014-04-19 01:04:00,0,6,green,1,670,us,0,3.803,11.0,mww,29.0,-6.6558,155.087,"Panguna, Papua New Guinea",,Papua New Guinea
+"M 7.5 - 70 km SW of Panguna, Papua New Guinea",7.5,2014-04-19 13:28:00,0,6,green,1,865,us,0,3.82,16.0,mww,43.37,-6.7547,155.024,"Panguna, Papua New Guinea",,

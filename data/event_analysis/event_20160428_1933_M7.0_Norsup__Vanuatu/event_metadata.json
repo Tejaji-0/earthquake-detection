@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 3 km NW of Norsup, Vanuatu",
+    "magnitude": 7.0,
+    "date_time": "2016-04-28T19:33:00",
+    "latitude": -16.0429,
+    "longitude": 167.379,
+    "location": "Norsup, Vanuatu",
+    "depth": 24.0,
+    "significance": 755
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 0
+  }
+}

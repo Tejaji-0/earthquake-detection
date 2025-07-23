@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+M 6.7 - Sea of Okhotsk,6.7,2013-05-24 14:56:00,0,3,green,1,691,us,217,0.0,25.2,mwb,624.0,52.235,151.444,Okhotsk,,

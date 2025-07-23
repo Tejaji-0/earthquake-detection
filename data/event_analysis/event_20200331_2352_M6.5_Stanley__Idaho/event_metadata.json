@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - Stanley, Idaho",
+    "magnitude": 6.5,
+    "date_time": "2020-03-31T23:52:00",
+    "latitude": 44.4646,
+    "longitude": -115.118,
+    "location": "Stanley, Idaho",
+    "depth": 12.06,
+    "significance": 1410
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

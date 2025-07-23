@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 36 km NW of Labuan Lombok, Indonesia",
+    "magnitude": 6.9,
+    "date_time": "2018-08-05T11:46:00",
+    "latitude": -8.2581,
+    "longitude": 116.438,
+    "location": "Labuan Lombok, Indonesia",
+    "depth": 34.0,
+    "significance": 1704
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 67 km NNE of Bharatpur, Nepal",
+    "magnitude": 7.8,
+    "date_time": "2015-04-25T06:11:00",
+    "latitude": 28.2305,
+    "longitude": 84.7314,
+    "location": "Bharatpur, Nepal",
+    "depth": 8.22,
+    "significance": 2820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 14 km WNW of Bolitoc, Philippines",
+    "magnitude": 7.3,
+    "date_time": "1999-12-11T18:03:00",
+    "latitude": 15.766,
+    "longitude": 119.74,
+    "location": "Bolitoc, Philippines",
+    "depth": 33.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 37 km WNW of Ferndale, California",
+    "magnitude": 6.5,
+    "date_time": "2010-01-10T00:27:00",
+    "latitude": 40.652,
+    "longitude": -124.692,
+    "location": "Ferndale, California",
+    "depth": 28.737,
+    "significance": 1360
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

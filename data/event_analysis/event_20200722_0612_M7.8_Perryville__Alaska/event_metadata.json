@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 99 km SSE of Perryville, Alaska",
+    "magnitude": 7.8,
+    "date_time": "2020-07-22T06:12:00",
+    "latitude": 55.1079,
+    "longitude": -158.477,
+    "location": "Perryville, Alaska",
+    "depth": 28.0,
+    "significance": 1111
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

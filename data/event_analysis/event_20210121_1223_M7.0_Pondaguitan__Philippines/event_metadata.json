@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 211 km SE of Pondaguitan, Philippines",
+    "magnitude": 7.0,
+    "date_time": "2021-01-21T12:23:00",
+    "latitude": 5.0074,
+    "longitude": 127.517,
+    "location": "Pondaguitan, Philippines",
+    "depth": 80.0,
+    "significance": 802
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

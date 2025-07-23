@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 104 km W of Murghob, Tajikistan",
+    "magnitude": 7.2,
+    "date_time": "2015-12-07T07:50:00",
+    "latitude": 38.2107,
+    "longitude": 72.7797,
+    "location": "Murghob, Tajikistan",
+    "depth": 22.0,
+    "significance": 827
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

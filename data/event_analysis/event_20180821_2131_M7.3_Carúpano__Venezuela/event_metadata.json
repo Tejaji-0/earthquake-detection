@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 40 km ENE of Car\u00fapano, Venezuela",
+    "magnitude": 7.3,
+    "date_time": "2018-08-21T21:31:00",
+    "latitude": 10.7731,
+    "longitude": -62.9019,
+    "location": "Car\u00fapano, Venezuela",
+    "depth": 146.82,
+    "significance": 1570
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

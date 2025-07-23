@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 102 km SSE of Bengkulu, Indonesia",
+    "magnitude": 7.4,
+    "date_time": "2001-02-13T19:28:00",
+    "latitude": -4.68,
+    "longitude": 102.562,
+    "location": "Bengkulu, Indonesia",
+    "depth": 36.0,
+    "significance": 842
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

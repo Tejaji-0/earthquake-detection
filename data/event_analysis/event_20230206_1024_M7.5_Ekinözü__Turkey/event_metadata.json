@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 4 km SSE of Ekin\u00f6z\u00fc, Turkey",
+    "magnitude": 7.5,
+    "date_time": "2023-02-06T10:24:00",
+    "latitude": 38.0235,
+    "longitude": 37.203,
+    "location": "Ekin\u00f6z\u00fc, Turkey",
+    "depth": 10.0,
+    "significance": 1411
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 2,
+    "events_after": 0
+  }
+}

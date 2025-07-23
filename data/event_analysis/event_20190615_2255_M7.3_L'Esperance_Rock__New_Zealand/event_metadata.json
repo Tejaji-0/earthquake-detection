@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 116km NE of L'Esperance Rock, New Zealand",
+    "magnitude": 7.3,
+    "date_time": "2019-06-15T22:55:00",
+    "latitude": -30.6441,
+    "longitude": -178.1,
+    "location": "L'Esperance Rock, New Zealand",
+    "depth": 46.0,
+    "significance": 830
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

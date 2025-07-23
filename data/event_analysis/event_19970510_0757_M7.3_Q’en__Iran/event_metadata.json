@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 58 km E of Q?\u2019en, Iran",
+    "magnitude": 7.3,
+    "date_time": "1997-05-10T07:57:00",
+    "latitude": 33.825,
+    "longitude": 59.809,
+    "location": "Q?\u2019en, Iran",
+    "depth": 10.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

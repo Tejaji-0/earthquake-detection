@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 12km SW of Delta, B.C., MX",
+    "magnitude": 7.2,
+    "date_time": "2010-04-04T22:40:00",
+    "latitude": 32.2862,
+    "longitude": -115.295,
+    "location": "Delta, B.C., MX",
+    "depth": 9.987,
+    "significance": 2910
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

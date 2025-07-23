@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 27 km NNW of Tachilek, Myanmar",
+    "magnitude": 6.9,
+    "date_time": "2011-03-24T13:55:00",
+    "latitude": 20.687,
+    "longitude": 99.822,
+    "location": "Tachilek, Myanmar",
+    "depth": 8.0,
+    "significance": 1154
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

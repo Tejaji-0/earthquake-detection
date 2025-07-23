@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 92 km ENE of Kimbe, Papua New Guinea",
+    "magnitude": 7.1,
+    "date_time": "1999-05-10T20:33:00",
+    "latitude": -5.159,
+    "longitude": 150.88,
+    "location": "Kimbe, Papua New Guinea",
+    "depth": 138.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

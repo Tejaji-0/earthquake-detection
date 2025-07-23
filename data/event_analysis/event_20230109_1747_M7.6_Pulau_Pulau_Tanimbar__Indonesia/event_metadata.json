@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - Pulau Pulau Tanimbar, Indonesia",
+    "magnitude": 7.6,
+    "date_time": "2023-01-09T17:47:00",
+    "latitude": -7.0852,
+    "longitude": 130.039,
+    "location": "Pulau Pulau Tanimbar, Indonesia",
+    "depth": 105.249,
+    "significance": 957
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 65 km SSW of Port-Vila, Vanuatu",6.5,2011-08-20 17:13:00,0,5,,0,650,us,322,0.0,15.0,mwc,35.0,-18.308,168.156,"Port-Vila, Vanuatu",,
+"M 7.1 - 64 km S of Port-Vila, Vanuatu",7.1,2011-08-20 18:19:00,5,6,,0,787,us,564,0.0,12.3,mww,28.0,-18.311,168.218,"Port-Vila, Vanuatu",,
+"M 7.0 - 133 km SSE of Isangel, Vanuatu",7.0,2011-09-03 22:55:00,7,5,,0,761,us,406,0.0,15.3,mww,185.1,-20.671,169.716,"Isangel, Vanuatu",,

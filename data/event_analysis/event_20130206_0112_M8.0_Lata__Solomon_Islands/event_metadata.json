@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.0 - 75 km W of Lata, Solomon Islands",
+    "magnitude": 8.0,
+    "date_time": "2013-02-06T01:12:00",
+    "latitude": -10.799,
+    "longitude": 165.114,
+    "location": "Lata, Solomon Islands",
+    "depth": 24.0,
+    "significance": 993
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 6
+  }
+}

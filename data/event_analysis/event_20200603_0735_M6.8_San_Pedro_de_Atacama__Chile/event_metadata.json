@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 48 km SW of San Pedro de Atacama, Chile",
+    "magnitude": 6.8,
+    "date_time": "2020-06-03T07:35:00",
+    "latitude": -23.2966,
+    "longitude": -68.4204,
+    "location": "San Pedro de Atacama, Chile",
+    "depth": 112.0,
+    "significance": 835
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

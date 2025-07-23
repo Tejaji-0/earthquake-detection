@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 35 km SSW of Aguililla, Mexico",
+    "magnitude": 7.6,
+    "date_time": "2022-09-19T18:05:00",
+    "latitude": 18.3667,
+    "longitude": -103.252,
+    "location": "Aguililla, Mexico",
+    "depth": 26.943,
+    "significance": 1799
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

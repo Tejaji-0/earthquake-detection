@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - Rat Islands, Aleutian Islands, Alaska",
+    "magnitude": 7.9,
+    "date_time": "2014-06-23T20:53:00",
+    "latitude": 51.8486,
+    "longitude": 178.735,
+    "location": "Rat Islands, Aleutian Islands, Alaska",
+    "depth": 109.0,
+    "significance": 963
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

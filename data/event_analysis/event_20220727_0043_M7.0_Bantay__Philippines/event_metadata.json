@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 11 km NE of Bantay, Philippines",
+    "magnitude": 7.0,
+    "date_time": "2022-07-27T00:43:00",
+    "latitude": 17.5978,
+    "longitude": 120.809,
+    "location": "Bantay, Philippines",
+    "depth": 33.729,
+    "significance": 1351
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

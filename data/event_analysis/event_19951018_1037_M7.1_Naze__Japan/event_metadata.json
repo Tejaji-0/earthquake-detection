@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 83 km SE of Naze, Japan",
+    "magnitude": 7.1,
+    "date_time": "1995-10-18T10:37:00",
+    "latitude": 27.929,
+    "longitude": 130.175,
+    "location": "Naze, Japan",
+    "depth": 28.4,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

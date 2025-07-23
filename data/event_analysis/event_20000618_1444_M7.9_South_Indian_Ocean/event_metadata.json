@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - South Indian Ocean",
+    "magnitude": 7.9,
+    "date_time": "2000-06-18T14:44:00",
+    "latitude": -13.802,
+    "longitude": 97.453,
+    "location": "South Indian Ocean",
+    "depth": 10.0,
+    "significance": 960
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

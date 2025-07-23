@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - New Guinea, Papua New Guinea",
+    "magnitude": 7.0,
+    "date_time": "2023-04-02T18:04:00",
+    "latitude": -4.2924,
+    "longitude": 143.155,
+    "location": "New Guinea, Papua New Guinea",
+    "depth": 62.603,
+    "significance": 781
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

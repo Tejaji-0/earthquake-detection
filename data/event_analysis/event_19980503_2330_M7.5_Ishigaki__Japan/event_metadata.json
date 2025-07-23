@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 254 km SSE of Ishigaki, Japan",
+    "magnitude": 7.5,
+    "date_time": "1998-05-03T23:30:00",
+    "latitude": 22.306,
+    "longitude": 125.308,
+    "location": "Ishigaki, Japan",
+    "depth": 33.0,
+    "significance": 865
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

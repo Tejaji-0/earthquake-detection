@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 150 km NNE of Maumere, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2015-02-27T13:45:00",
+    "latitude": -7.2968,
+    "longitude": 122.535,
+    "location": "Maumere, Indonesia",
+    "depth": 552.06,
+    "significance": 760
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

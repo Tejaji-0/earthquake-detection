@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+M 7.3 - Nepal,7.3,2015-05-12 07:05:00,8,7,orange,0,1563,us,0,0.677,11.0,mww,15.0,27.8087,86.0655,Nepal,Asia,Nepal

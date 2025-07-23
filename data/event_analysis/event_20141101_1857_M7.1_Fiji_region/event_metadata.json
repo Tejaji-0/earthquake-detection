@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - Fiji region",
+    "magnitude": 7.1,
+    "date_time": "2014-11-01T18:57:00",
+    "latitude": -19.6903,
+    "longitude": -177.759,
+    "location": "Fiji region",
+    "depth": 434.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 25 km WNW of Illapel, Chile",
+    "magnitude": 7.0,
+    "date_time": "2015-09-16T23:18:00",
+    "latitude": -31.5622,
+    "longitude": -71.4262,
+    "location": "Illapel, Chile",
+    "depth": 28.41,
+    "significance": 799
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 3
+  }
+}

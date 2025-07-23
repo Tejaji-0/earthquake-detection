@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 11 km ENE of Hojancha, Costa Rica",
+    "magnitude": 7.6,
+    "date_time": "2012-09-05T14:42:00",
+    "latitude": 10.085,
+    "longitude": -85.315,
+    "location": "Hojancha, Costa Rica",
+    "depth": 35.0,
+    "significance": 1555
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

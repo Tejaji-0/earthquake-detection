@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 268 km WSW of Tual, Indonesia",
+    "magnitude": 6.9,
+    "date_time": "2009-10-24T14:40:00",
+    "latitude": -6.133,
+    "longitude": 130.385,
+    "location": "Tual, Indonesia",
+    "depth": 130.0,
+    "significance": 972
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

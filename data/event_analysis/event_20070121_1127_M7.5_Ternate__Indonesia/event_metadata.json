@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 126 km WNW of Ternate, Indonesia",
+    "magnitude": 7.5,
+    "date_time": "2007-01-21T11:27:00",
+    "latitude": 1.065,
+    "longitude": 126.282,
+    "location": "Ternate, Indonesia",
+    "depth": 22.0,
+    "significance": 874
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

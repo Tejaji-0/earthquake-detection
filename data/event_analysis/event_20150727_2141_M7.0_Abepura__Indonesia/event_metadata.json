@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 234 km W of Abepura, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2015-07-27T21:41:00",
+    "latitude": -2.6286,
+    "longitude": 138.528,
+    "location": "Abepura, Indonesia",
+    "depth": 48.0,
+    "significance": 762
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

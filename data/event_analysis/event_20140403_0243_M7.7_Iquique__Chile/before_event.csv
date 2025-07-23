@@ -1,0 +1,5 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.7 - 63 km WNW of Iquique, Chile",6.7,2014-03-16 21:16:00,7,7,green,1,718,us,0,1.008,44.0,mww,20.0,-19.9807,-70.7022,"Iquique, Chile",,
+"M 8.2 - 93 km NW of Iquique, Chile",8.2,2014-04-01 23:46:00,9,8,yellow,1,1332,us,0,0.609,23.0,mww,25.0,-19.6097,-70.7691,"Iquique, Chile",,
+"M 6.9 - 90 km WNW of Iquique, Chile",6.9,2014-04-01 23:57:00,0,5,green,0,732,us,0,0.828,119.0,mww,28.42,-19.8927,-70.9455,"Iquique, Chile",,
+"M 6.5 - 45 km WSW of Iquique, Chile",6.5,2014-04-03 01:58:00,7,7,green,0,670,us,0,0.828,82.0,mww,24.07,-20.3113,-70.5756,"Iquique, Chile",,

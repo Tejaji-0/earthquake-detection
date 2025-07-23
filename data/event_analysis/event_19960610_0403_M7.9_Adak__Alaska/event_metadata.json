@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 77 km WSW of Adak, Alaska",
+    "magnitude": 7.9,
+    "date_time": "1996-06-10T04:03:00",
+    "latitude": 51.564,
+    "longitude": -177.632,
+    "location": "Adak, Alaska",
+    "depth": 33.0,
+    "significance": 960
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

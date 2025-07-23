@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 196 km SSE of Sarangani, Philippines",
+    "magnitude": 7.2,
+    "date_time": "2009-02-11T17:34:00",
+    "latitude": 3.886,
+    "longitude": 126.387,
+    "location": "Sarangani, Philippines",
+    "depth": 20.0,
+    "significance": 802
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

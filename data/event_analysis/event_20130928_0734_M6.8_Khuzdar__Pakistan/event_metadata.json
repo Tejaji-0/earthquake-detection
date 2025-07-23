@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 129 km WSW of Khuzdar, Pakistan",
+    "magnitude": 6.8,
+    "date_time": "2013-09-28T07:34:00",
+    "latitude": 27.1825,
+    "longitude": 65.5052,
+    "location": "Khuzdar, Pakistan",
+    "depth": 12.0,
+    "significance": 1005
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

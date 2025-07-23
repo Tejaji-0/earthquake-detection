@@ -1,0 +1,6 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.4 - 124 km W of Lebu, Chile",7.4,2010-02-27 08:01:00,0,5,,0,842,us,409,0.0,17.6,mwc,35.0,-37.773,-75.048,"Lebu, Chile",,
+"M 6.6 - 23 km WNW of Talcahuano, Chile",6.6,2010-03-05 11:47:00,7,7,,0,736,us,255,0.0,27.8,mwb,18.0,-36.665,-73.374,"Talcahuano, Chile",,Chile
+"M 6.9 - 61 km NW of Santa Cruz, Chile",6.9,2010-03-11 14:39:00,7,7,,0,1280,us,415,0.0,12.5,mwc,11.0,-34.29,-71.891,"Santa Cruz, Chile",South America,Chile
+"M 7.0 - 52 km NW of Santa Cruz, Chile",7.0,2010-03-11 14:55:00,7,7,,0,874,us,403,0.0,17.1,mwc,18.0,-34.326,-71.799,"Santa Cruz, Chile",South America,Chile
+"M 6.7 - 52 km NNW of Tomé, Chile",6.7,2010-03-16 02:21:00,5,6,,0,856,us,312,0.0,34.7,mwc,18.0,-36.217,-73.257,"Tomé, Chile",,

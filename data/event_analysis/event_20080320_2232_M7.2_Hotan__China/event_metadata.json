@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 226 km SE of Hotan, China",
+    "magnitude": 7.2,
+    "date_time": "2008-03-20T22:32:00",
+    "latitude": 35.49,
+    "longitude": 81.467,
+    "location": "Hotan, China",
+    "depth": 10.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

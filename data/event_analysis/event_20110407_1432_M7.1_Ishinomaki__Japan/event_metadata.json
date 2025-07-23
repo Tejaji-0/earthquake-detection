@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 29 km ESE of Ishinomaki, Japan",
+    "magnitude": 7.1,
+    "date_time": "2011-04-07T14:32:00",
+    "latitude": 38.276,
+    "longitude": 141.588,
+    "location": "Ishinomaki, Japan",
+    "depth": 42.0,
+    "significance": 1114
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 6,
+    "events_after": 1
+  }
+}

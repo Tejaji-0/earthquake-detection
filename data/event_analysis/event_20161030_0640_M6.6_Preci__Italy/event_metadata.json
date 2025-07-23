@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 5 km ESE of Preci, Italy",
+    "magnitude": 6.6,
+    "date_time": "2016-10-30T06:40:00",
+    "latitude": 42.8621,
+    "longitude": 13.0961,
+    "location": "Preci, Italy",
+    "depth": 8.0,
+    "significance": 2840
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

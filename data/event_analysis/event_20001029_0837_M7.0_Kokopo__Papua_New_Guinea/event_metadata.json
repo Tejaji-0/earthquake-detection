@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 191 km ESE of Kokopo, Papua New Guinea",
+    "magnitude": 7.0,
+    "date_time": "2000-10-29T08:37:00",
+    "latitude": -4.766,
+    "longitude": 153.945,
+    "location": "Kokopo, Papua New Guinea",
+    "depth": 50.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 6
+  }
+}

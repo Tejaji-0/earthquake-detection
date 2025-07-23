@@ -1,0 +1,5 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 8.4 - 122 km SW of Bengkulu, Indonesia",8.4,2007-09-12 11:10:00,0,6,,0,1086,official,411,0.0,32.3,mww,34.0,-4.438,101.367,"Bengkulu, Indonesia",,Indonesia
+"M 7.8 - 148 km WSW of Sungai Penuh, Indonesia",7.8,2007-09-12 23:49:00,7,8,,0,1152,duputel,0,0.0,0.0,mww,40.5,-2.52,100.139,"Sungai Penuh, Indonesia",Asia,Indonesia
+"M 7.9 - 87 km SW of Sungai Penuh, Indonesia",7.9,2007-09-12 23:49:00,8,7,,0,1133,us,446,0.0,29.1,mwc,35.0,-2.625,100.841,"Sungai Penuh, Indonesia",,Indonesia
+"M 6.5 - Kepulauan Mentawai region, Indonesia",6.5,2007-09-13 02:30:00,0,5,,0,650,us,409,0.0,26.2,mwc,28.9,-1.689,99.668,"Kepulauan Mentawai region, Indonesia",,Indonesia

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - Kermadec Islands region",
+    "magnitude": 7.6,
+    "date_time": "2011-07-06T19:03:00",
+    "latitude": -29.539,
+    "longitude": -176.34,
+    "location": "Kermadec Islands region",
+    "depth": 17.0,
+    "significance": 893
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

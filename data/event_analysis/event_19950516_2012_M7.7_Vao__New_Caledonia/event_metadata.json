@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.7 - 249 km E of Vao, New Caledonia",
+    "magnitude": 7.7,
+    "date_time": "1995-05-16T20:12:00",
+    "latitude": -23.008,
+    "longitude": 169.9,
+    "location": "Vao, New Caledonia",
+    "depth": 20.2,
+    "significance": 912
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

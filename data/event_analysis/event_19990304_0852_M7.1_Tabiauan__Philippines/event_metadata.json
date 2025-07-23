@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 69 km S of Tabiauan, Philippines",
+    "magnitude": 7.1,
+    "date_time": "1999-03-04T08:52:00",
+    "latitude": 5.397,
+    "longitude": 121.937,
+    "location": "Tabiauan, Philippines",
+    "depth": 33.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

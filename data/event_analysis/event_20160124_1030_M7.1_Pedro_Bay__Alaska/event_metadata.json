@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 47 km ESE of Pedro Bay, Alaska",
+    "magnitude": 7.1,
+    "date_time": "2016-01-24T10:30:00",
+    "latitude": 59.6204,
+    "longitude": -153.339,
+    "location": "Pedro Bay, Alaska",
+    "depth": 125.6,
+    "significance": 1496
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

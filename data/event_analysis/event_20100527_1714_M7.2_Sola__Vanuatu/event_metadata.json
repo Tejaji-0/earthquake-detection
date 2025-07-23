@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 100 km WNW of Sola, Vanuatu",
+    "magnitude": 7.2,
+    "date_time": "2010-05-27T17:14:00",
+    "latitude": -13.698,
+    "longitude": 166.643,
+    "location": "Sola, Vanuatu",
+    "depth": 31.0,
+    "significance": 804
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

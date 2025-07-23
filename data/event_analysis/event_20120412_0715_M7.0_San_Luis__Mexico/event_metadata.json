@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 69 km ENE of San Luis, Mexico",
+    "magnitude": 7.0,
+    "date_time": "2012-04-12T07:15:00",
+    "latitude": 28.696,
+    "longitude": -113.104,
+    "location": "San Luis, Mexico",
+    "depth": 13.0,
+    "significance": 1000
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

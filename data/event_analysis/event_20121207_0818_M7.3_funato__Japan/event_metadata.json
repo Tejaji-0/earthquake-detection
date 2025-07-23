@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 234 km SE of ?funato, Japan",
+    "magnitude": 7.3,
+    "date_time": "2012-12-07T08:18:00",
+    "latitude": 37.89,
+    "longitude": 143.949,
+    "location": "?funato, Japan",
+    "depth": 31.0,
+    "significance": 1014
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

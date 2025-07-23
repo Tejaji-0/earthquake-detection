@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 52 km SE of Lata, Solomon Islands",
+    "magnitude": 7.0,
+    "date_time": "1998-07-16T11:56:00",
+    "latitude": -11.04,
+    "longitude": 166.16,
+    "location": "Lata, Solomon Islands",
+    "depth": 110.2,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

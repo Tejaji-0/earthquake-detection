@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 160 km SE of Chipinge, Zimbabwe",
+    "magnitude": 7.0,
+    "date_time": "2006-02-22T22:19:00",
+    "latitude": -21.324,
+    "longitude": 33.583,
+    "location": "Chipinge, Zimbabwe",
+    "depth": 11.0,
+    "significance": 891
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.4 - Kermadec Islands, New Zealand",7.4,2021-03-04 17:41:00,3,7,green,1,843,us,0,0.437,30.0,mww,43.0,-29.6131,-177.842,"Kermadec Islands, New Zealand",,

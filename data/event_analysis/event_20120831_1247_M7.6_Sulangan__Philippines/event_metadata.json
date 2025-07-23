@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 89 km E of Sulangan, Philippines",
+    "magnitude": 7.6,
+    "date_time": "2012-08-31T12:47:00",
+    "latitude": 10.811,
+    "longitude": 126.638,
+    "location": "Sulangan, Philippines",
+    "depth": 28.0,
+    "significance": 1115
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

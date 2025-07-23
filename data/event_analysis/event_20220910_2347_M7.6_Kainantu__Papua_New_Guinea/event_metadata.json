@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 70 km E of Kainantu, Papua New Guinea",
+    "magnitude": 7.6,
+    "date_time": "2022-09-10T23:47:00",
+    "latitude": -6.2237,
+    "longitude": 146.471,
+    "location": "Kainantu, Papua New Guinea",
+    "depth": 116.0,
+    "significance": 965
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

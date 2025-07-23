@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 26 km W of Chauk, Myanmar",
+    "magnitude": 6.8,
+    "date_time": "2016-08-24T10:34:00",
+    "latitude": 20.9228,
+    "longitude": 94.569,
+    "location": "Chauk, Myanmar",
+    "depth": 82.0,
+    "significance": 981
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

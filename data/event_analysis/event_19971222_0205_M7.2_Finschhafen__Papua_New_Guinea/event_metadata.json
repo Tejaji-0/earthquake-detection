@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 117 km N of Finschhafen, Papua New Guinea",
+    "magnitude": 7.2,
+    "date_time": "1997-12-22T02:05:00",
+    "latitude": -5.495,
+    "longitude": 147.867,
+    "location": "Finschhafen, Papua New Guinea",
+    "depth": 179.3,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.0 - 41 km SW of San Vicente de Ca\u00f1ete, Peru",
+    "magnitude": 8.0,
+    "date_time": "2007-08-15T23:40:00",
+    "latitude": -13.386,
+    "longitude": -76.603,
+    "location": "San Vicente de Ca\u00f1ete, Peru",
+    "depth": 39.0,
+    "significance": 1385
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

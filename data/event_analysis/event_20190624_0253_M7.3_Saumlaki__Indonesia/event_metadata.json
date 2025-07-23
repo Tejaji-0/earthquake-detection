@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 292km NW of Saumlaki, Indonesia",
+    "magnitude": 7.3,
+    "date_time": "2019-06-24T02:53:00",
+    "latitude": -6.4078,
+    "longitude": 129.169,
+    "location": "Saumlaki, Indonesia",
+    "depth": 212.0,
+    "significance": 952
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,3 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.9 - 36 km NW of Labuan Lombok, Indonesia",6.9,2018-08-05 11:46:00,9,8,orange,0,1704,us,0,2.271,15.0,mww,34.0,-8.2581,116.438,"Labuan Lombok, Indonesia",,Indonesia
+"M 6.5 - 124 km N of Labuan Bajo, Indonesia",6.5,2018-08-17 15:35:00,5,3,green,0,743,us,0,2.719,23.0,mww,529.0,-7.3718,119.802,"Labuan Bajo, Indonesia",,Indonesia

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 277 km NNE of Codrington, Antigua and Barbuda",
+    "magnitude": 6.6,
+    "date_time": "2023-07-10T20:28:00",
+    "latitude": 20.0196,
+    "longitude": -61.0955,
+    "location": "Codrington, Antigua and Barbuda",
+    "depth": 10.0,
+    "significance": 802
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

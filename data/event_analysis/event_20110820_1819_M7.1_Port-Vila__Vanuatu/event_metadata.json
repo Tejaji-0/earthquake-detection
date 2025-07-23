@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 64 km S of Port-Vila, Vanuatu",
+    "magnitude": 7.1,
+    "date_time": "2011-08-20T18:19:00",
+    "latitude": -18.311,
+    "longitude": 168.218,
+    "location": "Port-Vila, Vanuatu",
+    "depth": 28.0,
+    "significance": 787
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 2,
+    "events_after": 1
+  }
+}

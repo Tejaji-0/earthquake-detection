@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 215 km SW of Sungai Penuh, Indonesia",
+    "magnitude": 7.8,
+    "date_time": "2010-10-25T14:42:00",
+    "latitude": -3.487,
+    "longitude": 100.082,
+    "location": "Sungai Penuh, Indonesia",
+    "depth": 20.1,
+    "significance": 946
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

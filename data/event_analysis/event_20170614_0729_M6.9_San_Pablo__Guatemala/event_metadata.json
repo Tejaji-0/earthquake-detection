@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 2 km SSW of San Pablo, Guatemala",
+    "magnitude": 6.9,
+    "date_time": "2017-06-14T07:29:00",
+    "latitude": 14.9091,
+    "longitude": -92.0092,
+    "location": "San Pablo, Guatemala",
+    "depth": 93.0,
+    "significance": 1188
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

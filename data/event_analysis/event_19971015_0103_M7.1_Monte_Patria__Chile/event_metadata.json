@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 36 km SW of Monte Patria, Chile",
+    "magnitude": 7.1,
+    "date_time": "1997-10-15T01:03:00",
+    "latitude": -30.933,
+    "longitude": -71.22,
+    "location": "Monte Patria, Chile",
+    "depth": 58.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

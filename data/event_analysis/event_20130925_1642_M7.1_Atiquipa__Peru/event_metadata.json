@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 16 km WSW of Atiquipa, Peru",
+    "magnitude": 7.1,
+    "date_time": "2013-09-25T16:42:00",
+    "latitude": -15.8385,
+    "longitude": -74.5112,
+    "location": "Atiquipa, Peru",
+    "depth": 40.0,
+    "significance": 843
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

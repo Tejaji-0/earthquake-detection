@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 47 km E of ?arai, Japan",
+    "magnitude": 7.9,
+    "date_time": "2011-03-11T06:15:00",
+    "latitude": 36.281,
+    "longitude": 141.111,
+    "location": "?arai, Japan",
+    "depth": 42.6,
+    "significance": 1140
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 2,
+    "events_after": 4
+  }
+}

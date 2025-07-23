@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - Hindu Kush region, Afghanistan",
+    "magnitude": 7.5,
+    "date_time": "2015-10-26T09:09:00",
+    "latitude": 36.5244,
+    "longitude": 70.3676,
+    "location": "Hindu Kush region, Afghanistan",
+    "depth": 231.0,
+    "significance": 1448
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

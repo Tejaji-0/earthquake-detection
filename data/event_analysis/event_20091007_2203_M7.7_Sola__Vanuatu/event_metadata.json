@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.7 - 148 km NW of Sola, Vanuatu",
+    "magnitude": 7.7,
+    "date_time": "2009-10-07T22:03:00",
+    "latitude": -13.006,
+    "longitude": 166.51,
+    "location": "Sola, Vanuatu",
+    "depth": 45.0,
+    "significance": 916
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 3
+  }
+}

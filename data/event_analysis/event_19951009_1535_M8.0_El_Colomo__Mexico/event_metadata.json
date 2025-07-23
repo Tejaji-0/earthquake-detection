@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.0 - 5 km E of El Colomo, Mexico",
+    "magnitude": 8.0,
+    "date_time": "1995-10-09T15:35:00",
+    "latitude": 19.055,
+    "longitude": -104.205,
+    "location": "El Colomo, Mexico",
+    "depth": 33.0,
+    "significance": 985
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

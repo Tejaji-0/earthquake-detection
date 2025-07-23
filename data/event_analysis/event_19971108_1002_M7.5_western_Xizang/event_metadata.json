@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - western Xizang",
+    "magnitude": 7.5,
+    "date_time": "1997-11-08T10:02:00",
+    "latitude": 35.069,
+    "longitude": 87.325,
+    "location": "western Xizang",
+    "depth": 33.0,
+    "significance": 865
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

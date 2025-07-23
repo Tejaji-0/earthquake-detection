@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 29 km W of Imph?l, India",
+    "magnitude": 6.7,
+    "date_time": "2016-01-03T23:05:00",
+    "latitude": 24.8036,
+    "longitude": 93.6505,
+    "location": "Imph?l, India",
+    "depth": 55.0,
+    "significance": 1515
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 40 km SSE of Jurm, Afghanistan",
+    "magnitude": 6.5,
+    "date_time": "2023-03-21T16:47:00",
+    "latitude": 36.5227,
+    "longitude": 70.9787,
+    "location": "Jurm, Afghanistan",
+    "depth": 187.589,
+    "significance": 1350
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

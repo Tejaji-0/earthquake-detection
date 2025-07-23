@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.9 - 284 km ESE of Tadine, New Caledonia",6.9,2022-03-30 20:56:00,6,4,green,1,738,us,0,2.697,42.0,mww,10.0,-22.72,170.277,"Tadine, New Caledonia",,

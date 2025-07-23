@@ -1,0 +1,3 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.7 - 126 km SSW of Kokopo, Papua New Guinea",6.7,2015-04-30 10:45:00,5,6,green,1,692,us,0,1.239,12.0,mww,31.0,-5.375,151.771,"Kokopo, Papua New Guinea",,Papua New Guinea
+"M 6.8 - 109 km SSW of Kokopo, Papua New Guinea",6.8,2015-05-01 08:06:00,5,6,green,1,714,us,0,1.074,23.0,mww,44.0,-5.2005,151.777,"Kokopo, Papua New Guinea",,Papua New Guinea

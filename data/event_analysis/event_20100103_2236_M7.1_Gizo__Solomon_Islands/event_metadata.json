@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 94 km SE of Gizo, Solomon Islands",
+    "magnitude": 7.1,
+    "date_time": "2010-01-03T22:36:00",
+    "latitude": -8.783,
+    "longitude": 157.354,
+    "location": "Gizo, Solomon Islands",
+    "depth": 10.0,
+    "significance": 780
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 1
+  }
+}

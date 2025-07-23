@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 64 km ESE of Contamana, Peru",
+    "magnitude": 7.0,
+    "date_time": "2011-08-24T17:46:00",
+    "latitude": -7.641,
+    "longitude": -74.525,
+    "location": "Contamana, Peru",
+    "depth": 147.0,
+    "significance": 913
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

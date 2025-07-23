@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.1 - 45 km SSE of Gizo, Solomon Islands",
+    "magnitude": 8.1,
+    "date_time": "2007-04-01T20:39:00",
+    "latitude": -8.466,
+    "longitude": 157.043,
+    "location": "Gizo, Solomon Islands",
+    "depth": 24.0,
+    "significance": 1025
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

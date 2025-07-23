@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 1 km SE of Point MacKenzie, Alaska",
+    "magnitude": 7.1,
+    "date_time": "2018-11-30T17:29:00",
+    "latitude": 61.3464,
+    "longitude": -149.955,
+    "location": "Point MacKenzie, Alaska",
+    "depth": 46.7,
+    "significance": 1790
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

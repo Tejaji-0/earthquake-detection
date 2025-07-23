@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 80 km NE of Tilichiki, Russia",
+    "magnitude": 7.6,
+    "date_time": "2006-04-20T23:25:00",
+    "latitude": 60.949,
+    "longitude": 167.089,
+    "location": "Tilichiki, Russia",
+    "depth": 22.0,
+    "significance": 889
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

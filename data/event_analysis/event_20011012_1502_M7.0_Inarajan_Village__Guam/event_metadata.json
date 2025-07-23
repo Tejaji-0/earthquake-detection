@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 69 km SSE of Inarajan Village, Guam",
+    "magnitude": 7.0,
+    "date_time": "2001-10-12T15:02:00",
+    "latitude": 12.686,
+    "longitude": 144.98,
+    "location": "Inarajan Village, Guam",
+    "depth": 37.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

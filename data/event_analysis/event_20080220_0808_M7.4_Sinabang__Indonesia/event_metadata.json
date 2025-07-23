@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 56 km NW of Sinabang, Indonesia",
+    "magnitude": 7.4,
+    "date_time": "2008-02-20T08:08:00",
+    "latitude": 2.768,
+    "longitude": 95.964,
+    "location": "Sinabang, Indonesia",
+    "depth": 26.0,
+    "significance": 914
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

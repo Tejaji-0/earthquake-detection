@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - New Britain region, Papua New Guinea",
+    "magnitude": 7.3,
+    "date_time": "2010-07-18T13:34:00",
+    "latitude": -5.931,
+    "longitude": 150.59,
+    "location": "New Britain region, Papua New Guinea",
+    "depth": 35.0,
+    "significance": 831
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 2
+  }
+}

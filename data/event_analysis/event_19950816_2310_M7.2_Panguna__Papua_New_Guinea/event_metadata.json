@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 139 km WNW of Panguna, Papua New Guinea",
+    "magnitude": 7.2,
+    "date_time": "1995-08-16T23:10:00",
+    "latitude": -5.771,
+    "longitude": 154.347,
+    "location": "Panguna, Papua New Guinea",
+    "depth": 33.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 0
+  }
+}

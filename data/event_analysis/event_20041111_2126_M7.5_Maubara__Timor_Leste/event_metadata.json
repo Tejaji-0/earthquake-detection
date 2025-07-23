@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 63 km NW of Maubara, Timor Leste",
+    "magnitude": 7.5,
+    "date_time": "2004-11-11T21:26:00",
+    "latitude": -8.152,
+    "longitude": 124.868,
+    "location": "Maubara, Timor Leste",
+    "depth": 10.0,
+    "significance": 870
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

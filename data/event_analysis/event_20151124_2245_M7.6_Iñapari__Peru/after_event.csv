@@ -1,0 +1,3 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.6 - 185 km WNW of Iñapari, Peru",7.6,2015-11-24 22:50:00,5,4,green,0,896,us,0,2.852,10.0,mww,620.56,-10.0598,-71.0184,"Iñapari, Peru",South America,Peru
+"M 6.7 - 125 km SSW of Tarauacá, Brazil",6.7,2015-11-26 05:45:00,2,3,green,0,691,us,0,2.033,19.0,mww,602.75,-9.1825,-71.2574,"Tarauacá, Brazil",South America,Brazil

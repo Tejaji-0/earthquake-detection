@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 260 km WSW of Abepura, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2013-04-06T04:42:00",
+    "latitude": -3.517,
+    "longitude": 138.476,
+    "location": "Abepura, Indonesia",
+    "depth": 66.0,
+    "significance": 755
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

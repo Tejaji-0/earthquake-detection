@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 96 km SW of San Antonio, Chile",
+    "magnitude": 6.8,
+    "date_time": "2019-08-01T18:28:00",
+    "latitude": -34.2364,
+    "longitude": -72.3102,
+    "location": "San Antonio, Chile",
+    "depth": 25.0,
+    "significance": 947
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 26 km SSE of Karluk, Alaska",
+    "magnitude": 7.0,
+    "date_time": "1999-12-06T23:12:00",
+    "latitude": 57.3424,
+    "longitude": -154.347,
+    "location": "Karluk, Alaska",
+    "depth": 43.6,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

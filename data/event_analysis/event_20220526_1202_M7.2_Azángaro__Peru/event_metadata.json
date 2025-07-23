@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 10 km W of Az\u00e1ngaro, Peru",
+    "magnitude": 7.2,
+    "date_time": "2022-05-26T12:02:00",
+    "latitude": -14.8628,
+    "longitude": -70.3081,
+    "location": "Az\u00e1ngaro, Peru",
+    "depth": 236.0,
+    "significance": 876
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 96 km ESE of Pondaguitan, Philippines",
+    "magnitude": 7.0,
+    "date_time": "2018-12-29T03:39:00",
+    "latitude": 5.8983,
+    "longitude": 126.921,
+    "location": "Pondaguitan, Philippines",
+    "depth": 60.21,
+    "significance": 803
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

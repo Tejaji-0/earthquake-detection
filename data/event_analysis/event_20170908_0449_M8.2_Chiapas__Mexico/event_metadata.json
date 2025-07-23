@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.2 - near the coast of Chiapas, Mexico",
+    "magnitude": 8.2,
+    "date_time": "2017-09-08T04:49:00",
+    "latitude": 15.0222,
+    "longitude": -93.8993,
+    "location": "Chiapas, Mexico",
+    "depth": 47.39,
+    "significance": 2910
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 21 km NNE of Muzaffar?b?d, Pakistan",
+    "magnitude": 7.6,
+    "date_time": "2005-10-08T03:50:00",
+    "latitude": 34.539,
+    "longitude": 73.588,
+    "location": "Muzaffar?b?d, Pakistan",
+    "depth": 26.0,
+    "significance": 1267
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - southeast of the Loyalty Islands",
+    "magnitude": 7.1,
+    "date_time": "2023-05-20T01:51:00",
+    "latitude": -23.0622,
+    "longitude": 170.456,
+    "location": "the Loyalty Islands",
+    "depth": 35.981,
+    "significance": 777
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

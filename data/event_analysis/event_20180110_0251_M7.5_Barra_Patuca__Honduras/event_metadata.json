@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 203 km NNE of Barra Patuca, Honduras",
+    "magnitude": 7.5,
+    "date_time": "2018-01-10T02:51:00",
+    "latitude": 17.4825,
+    "longitude": -83.52,
+    "location": "Barra Patuca, Honduras",
+    "depth": 19.0,
+    "significance": 1623
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

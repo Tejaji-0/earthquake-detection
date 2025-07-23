@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 34 km ESE of Port-Olry, Vanuatu",
+    "magnitude": 7.0,
+    "date_time": "1997-11-15T18:59:00",
+    "latitude": -15.145,
+    "longitude": 167.375,
+    "location": "Port-Olry, Vanuatu",
+    "depth": 123.1,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - off the east coast of Honshu, Japan",
+    "magnitude": 7.1,
+    "date_time": "2013-10-25T17:10:00",
+    "latitude": 37.1557,
+    "longitude": 144.661,
+    "location": "off the east coast of Honshu, Japan",
+    "depth": 35.0,
+    "significance": 872
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

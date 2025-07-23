@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 22 km NNE of Az\u00e1ngaro, Peru",
+    "magnitude": 7.0,
+    "date_time": "2019-03-01T08:50:00",
+    "latitude": -14.7131,
+    "longitude": -70.1546,
+    "location": "Az\u00e1ngaro, Peru",
+    "depth": 267.0,
+    "significance": 869
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

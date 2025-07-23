@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 136 km W of I\u00f1apari, Peru",
+    "magnitude": 7.1,
+    "date_time": "2018-08-24T09:04:00",
+    "latitude": -11.0355,
+    "longitude": -70.8284,
+    "location": "I\u00f1apari, Peru",
+    "depth": 630.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

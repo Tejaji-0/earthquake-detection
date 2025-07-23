@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 51 km SW of Nemuro, Japan",
+    "magnitude": 7.0,
+    "date_time": "2004-11-28T18:32:00",
+    "latitude": 43.006,
+    "longitude": 145.119,
+    "location": "Nemuro, Japan",
+    "depth": 39.0,
+    "significance": 771
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 53 km NNE of Amberley, New Zealand",
+    "magnitude": 7.8,
+    "date_time": "2016-11-13T11:02:00",
+    "latitude": -42.7373,
+    "longitude": 173.054,
+    "location": "Amberley, New Zealand",
+    "depth": 15.11,
+    "significance": 1545
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

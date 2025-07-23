@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.7 - 34 km WSW of Pacocha, Peru",6.7,2001-06-26 04:18:00,0,6,,0,691,us,422,0.0,0.0,mwc,24.0,-17.745,-71.649,"Pacocha, Peru",,Peru
+"M 6.6 - 31 km S of Achanizo, Peru",6.6,2001-07-05 13:53:00,0,7,,0,670,us,324,0.0,0.0,mwc,62.0,-16.086,-73.987,"Achanizo, Peru",,Peru
+"M 7.6 - 51 km SW of Punta de Bombón, Peru",7.6,2001-07-07 09:38:00,0,7,,0,889,us,398,0.0,0.0,mwc,33.0,-17.543,-72.077,"Punta de Bombón, Peru",,Peru

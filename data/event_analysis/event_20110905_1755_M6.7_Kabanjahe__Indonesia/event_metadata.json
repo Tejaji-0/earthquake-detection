@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 68 km WSW of Kabanjahe, Indonesia",
+    "magnitude": 6.7,
+    "date_time": "2011-09-05T17:55:00",
+    "latitude": 2.965,
+    "longitude": 97.893,
+    "location": "Kabanjahe, Indonesia",
+    "depth": 91.0,
+    "significance": 915
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

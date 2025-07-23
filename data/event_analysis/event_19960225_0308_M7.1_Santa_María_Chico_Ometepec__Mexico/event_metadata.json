@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 24 km SSW of Santa Mar\u00eda Chico Ometepec, Mexico",
+    "magnitude": 7.1,
+    "date_time": "1996-02-25T03:08:00",
+    "latitude": 15.978,
+    "longitude": -98.07,
+    "location": "Santa Mar\u00eda Chico Ometepec, Mexico",
+    "depth": 21.1,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

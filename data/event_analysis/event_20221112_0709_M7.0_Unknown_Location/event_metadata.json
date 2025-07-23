@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - ",
+    "magnitude": 7.0,
+    "date_time": "2022-11-12T07:09:00",
+    "latitude": -20.0508,
+    "longitude": -178.346,
+    "location": "Unknown Location",
+    "depth": 579.0,
+    "significance": 755
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

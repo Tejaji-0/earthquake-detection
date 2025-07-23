@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 10 km SE of L\u00e9og\u00e2ne, Haiti",
+    "magnitude": 7.0,
+    "date_time": "2010-01-12T21:53:00",
+    "latitude": 18.443,
+    "longitude": -72.571,
+    "location": "L\u00e9og\u00e2ne, Haiti",
+    "depth": 13.0,
+    "significance": 1623
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

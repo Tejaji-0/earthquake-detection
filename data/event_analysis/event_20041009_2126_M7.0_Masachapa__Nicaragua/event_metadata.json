@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 43 km SSW of Masachapa, Nicaragua",
+    "magnitude": 7.0,
+    "date_time": "2004-10-09T21:26:00",
+    "latitude": 11.422,
+    "longitude": -86.665,
+    "location": "Masachapa, Nicaragua",
+    "depth": 35.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

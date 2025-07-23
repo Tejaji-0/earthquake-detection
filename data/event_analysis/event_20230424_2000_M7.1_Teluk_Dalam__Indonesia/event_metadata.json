@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 170 km SSE of Teluk Dalam, Indonesia",
+    "magnitude": 7.1,
+    "date_time": "2023-04-24T20:00:00",
+    "latitude": -0.781,
+    "longitude": 98.5339,
+    "location": "Teluk Dalam, Indonesia",
+    "depth": 15.462,
+    "significance": 838
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

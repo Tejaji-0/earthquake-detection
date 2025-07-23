@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 51 km SW of Punta de Bomb\u00f3n, Peru",
+    "magnitude": 7.6,
+    "date_time": "2001-07-07T09:38:00",
+    "latitude": -17.543,
+    "longitude": -72.077,
+    "location": "Punta de Bomb\u00f3n, Peru",
+    "depth": 33.0,
+    "significance": 889
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 0
+  }
+}

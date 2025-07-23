@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - southeast of the Loyalty Islands",
+    "magnitude": 7.0,
+    "date_time": "2022-03-31T05:44:00",
+    "latitude": -22.5732,
+    "longitude": 170.349,
+    "location": "the Loyalty Islands",
+    "depth": 10.0,
+    "significance": 763
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

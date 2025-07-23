@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 33 km S of Champerico, Guatemala",
+    "magnitude": 7.4,
+    "date_time": "2012-11-07T16:35:00",
+    "latitude": 13.988,
+    "longitude": -91.895,
+    "location": "Champerico, Guatemala",
+    "depth": 24.0,
+    "significance": 1455
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

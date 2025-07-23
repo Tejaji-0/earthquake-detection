@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 116 km NE of Tobelo, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2003-05-26T19:23:00",
+    "latitude": 2.354,
+    "longitude": 128.855,
+    "location": "Tobelo, Indonesia",
+    "depth": 31.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

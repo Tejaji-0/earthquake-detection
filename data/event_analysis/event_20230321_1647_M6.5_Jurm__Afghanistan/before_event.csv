@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.8 - 67 km W of Murghob, Tajikistan",6.8,2023-02-23 00:37:00,9,7,green,0,737,us,128,1.783,20.0,mww,20.522,38.0726,73.2077,"Murghob, Tajikistan",Asia,Tajikistan

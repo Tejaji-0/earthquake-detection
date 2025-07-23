@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 266 km N of Bamboo Flat, India",
+    "magnitude": 7.5,
+    "date_time": "2009-08-10T19:55:00",
+    "latitude": 14.099,
+    "longitude": 92.902,
+    "location": "Bamboo Flat, India",
+    "depth": 24.0,
+    "significance": 1248
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

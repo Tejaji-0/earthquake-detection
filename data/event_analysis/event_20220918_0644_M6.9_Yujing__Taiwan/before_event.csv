@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 96 km SE of Lugu, Taiwan",6.5,2022-09-17 13:41:00,7,7,green,1,756,us,178,0.43,54.0,mww,10.0,23.029,121.348,"Lugu, Taiwan",Asia,Taiwan

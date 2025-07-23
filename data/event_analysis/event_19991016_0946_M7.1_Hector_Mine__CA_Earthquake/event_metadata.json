@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - Hector Mine, CA Earthquake",
+    "magnitude": 7.1,
+    "date_time": "1999-10-16T09:46:00",
+    "latitude": 34.6033,
+    "longitude": -116.265,
+    "location": "Hector Mine, CA Earthquake",
+    "depth": 13.73,
+    "significance": 1576
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

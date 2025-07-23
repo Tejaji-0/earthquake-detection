@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 21 km SSE of Kod?ri??, Nepal",
+    "magnitude": 6.7,
+    "date_time": "2015-04-26T07:09:00",
+    "latitude": 27.7711,
+    "longitude": 86.0173,
+    "location": "Kod?ri??, Nepal",
+    "depth": 22.91,
+    "significance": 1016
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 2,
+    "events_after": 1
+  }
+}

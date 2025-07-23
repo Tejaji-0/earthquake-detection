@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 13 km NNE of N\u00e9on Karlov\u00e1sion, Greece",
+    "magnitude": 7.0,
+    "date_time": "2020-10-30T11:51:00",
+    "latitude": 37.8973,
+    "longitude": 26.7953,
+    "location": "N\u00e9on Karlov\u00e1sion, Greece",
+    "depth": 21.0,
+    "significance": 1527
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

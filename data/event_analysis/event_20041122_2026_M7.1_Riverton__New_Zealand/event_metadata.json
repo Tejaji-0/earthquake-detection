@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 255 km W of Riverton, New Zealand",
+    "magnitude": 7.1,
+    "date_time": "2004-11-22T20:26:00",
+    "latitude": -46.676,
+    "longitude": 164.721,
+    "location": "Riverton, New Zealand",
+    "depth": 10.0,
+    "significance": 782
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

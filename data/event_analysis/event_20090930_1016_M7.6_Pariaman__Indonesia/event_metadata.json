@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 30 km WSW of Pariaman, Indonesia",
+    "magnitude": 7.6,
+    "date_time": "2009-09-30T10:16:00",
+    "latitude": -0.72,
+    "longitude": 99.867,
+    "location": "Pariaman, Indonesia",
+    "depth": 81.0,
+    "significance": 1639
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

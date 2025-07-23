@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 9.1 - 2004 Sumatra - Andaman Islands Earthquake",
+    "magnitude": 9.1,
+    "date_time": "2004-12-26T00:58:00",
+    "latitude": 3.295,
+    "longitude": 95.982,
+    "location": "2004 Sumatra - Andaman Islands Earthquake",
+    "depth": 30.0,
+    "significance": 1274
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

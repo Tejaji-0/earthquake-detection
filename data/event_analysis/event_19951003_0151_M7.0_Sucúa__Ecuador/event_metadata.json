@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 45 km SE of Suc\u00faa, Ecuador",
+    "magnitude": 7.0,
+    "date_time": "1995-10-03T01:51:00",
+    "latitude": -2.75,
+    "longitude": -77.881,
+    "location": "Suc\u00faa, Ecuador",
+    "depth": 24.4,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

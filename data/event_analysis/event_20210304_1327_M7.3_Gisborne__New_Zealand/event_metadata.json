@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 182 km NE of Gisborne, New Zealand",
+    "magnitude": 7.3,
+    "date_time": "2021-03-04T13:27:00",
+    "latitude": -37.596,
+    "longitude": 179.544,
+    "location": "Gisborne, New Zealand",
+    "depth": 10.0,
+    "significance": 932
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

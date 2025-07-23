@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 78 km NE of Hasaki, Japan",
+    "magnitude": 6.9,
+    "date_time": "2008-05-07T16:45:00",
+    "latitude": 36.164,
+    "longitude": 141.526,
+    "location": "Hasaki, Japan",
+    "depth": 27.0,
+    "significance": 910
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

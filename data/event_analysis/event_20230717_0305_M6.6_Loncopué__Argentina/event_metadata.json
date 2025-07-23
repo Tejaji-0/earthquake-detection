@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 25 km ESE of Loncopu\u00e9, Argentina",
+    "magnitude": 6.6,
+    "date_time": "2023-07-17T03:05:00",
+    "latitude": -38.1911,
+    "longitude": -70.3731,
+    "location": "Loncopu\u00e9, Argentina",
+    "depth": 171.371,
+    "significance": 899
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

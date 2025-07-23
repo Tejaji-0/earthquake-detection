@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.6 - 71 km NNE of Bharatpur, Nepal",6.6,2015-04-25 06:45:00,8,7,yellow,0,733,us,0,1.778,16.0,mww,10.0,28.2244,84.8216,"Bharatpur, Nepal",Asia,Nepal
+"M 6.7 - 21 km SSE of Kod?ri??, Nepal",6.7,2015-04-26 07:09:00,7,7,yellow,0,1016,us,0,0.727,13.0,mww,22.91,27.7711,86.0173,"Kod?ri??, Nepal",Asia,Nepal
+M 7.3 - Nepal,7.3,2015-05-12 07:05:00,8,7,orange,0,1563,us,0,0.677,11.0,mww,15.0,27.8087,86.0655,Nepal,Asia,Nepal

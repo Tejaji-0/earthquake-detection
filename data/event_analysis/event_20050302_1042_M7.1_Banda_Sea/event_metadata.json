@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - Banda Sea",
+    "magnitude": 7.1,
+    "date_time": "2005-03-02T10:42:00",
+    "latitude": -6.527,
+    "longitude": 129.933,
+    "location": "Banda Sea",
+    "depth": 201.7,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

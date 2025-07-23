@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 8.8 - 36 km WNW of Quirihue, Chile",8.8,2010-02-27 06:34:00,8,8,,0,1991,official,454,0.0,17.8,mww,22.9,-36.122,-72.898,"Quirihue, Chile",South America,Chile
+"M 7.4 - 124 km W of Lebu, Chile",7.4,2010-02-27 08:01:00,0,5,,0,842,us,409,0.0,17.6,mwc,35.0,-37.773,-75.048,"Lebu, Chile",,
+"M 6.6 - 23 km WNW of Talcahuano, Chile",6.6,2010-03-05 11:47:00,7,7,,0,736,us,255,0.0,27.8,mwb,18.0,-36.665,-73.374,"Talcahuano, Chile",,Chile

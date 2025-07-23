@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 92 km ESE of Lakatoro, Vanuatu",
+    "magnitude": 7.5,
+    "date_time": "1999-11-26T13:21:00",
+    "latitude": -16.423,
+    "longitude": 168.214,
+    "location": "Lakatoro, Vanuatu",
+    "depth": 33.0,
+    "significance": 865
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

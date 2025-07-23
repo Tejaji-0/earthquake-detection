@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - Monte Cristo Range, NV Earthquake",
+    "magnitude": 6.5,
+    "date_time": "2020-05-15T11:03:00",
+    "latitude": 38.1689,
+    "longitude": -117.85,
+    "location": "Monte Cristo Range, NV Earthquake",
+    "depth": 2.7,
+    "significance": 1320
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

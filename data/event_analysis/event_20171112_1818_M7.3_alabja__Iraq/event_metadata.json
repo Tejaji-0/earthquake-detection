@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 29 km S of ?alabja, Iraq",
+    "magnitude": 7.3,
+    "date_time": "2017-11-12T18:18:00",
+    "latitude": 34.9109,
+    "longitude": 45.9592,
+    "location": "?alabja, Iraq",
+    "depth": 19.0,
+    "significance": 2790
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

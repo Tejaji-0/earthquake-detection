@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 11 km WNW of San Agust\u00edn, Colombia",
+    "magnitude": 7.3,
+    "date_time": "2012-09-30T16:31:00",
+    "latitude": 1.929,
+    "longitude": -76.362,
+    "location": "San Agust\u00edn, Colombia",
+    "depth": 170.0,
+    "significance": 1221
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

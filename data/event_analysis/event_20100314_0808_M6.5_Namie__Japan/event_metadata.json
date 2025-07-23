@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 59 km ENE of Namie, Japan",
+    "magnitude": 6.5,
+    "date_time": "2010-03-14T08:08:00",
+    "latitude": 37.745,
+    "longitude": 141.59,
+    "location": "Namie, Japan",
+    "depth": 32.0,
+    "significance": 810
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

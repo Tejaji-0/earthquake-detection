@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.8 - 109 km NE of Hihifo, Tonga",6.8,2022-12-04 19:24:00,5,5,green,1,720,us,152,2.587,26.0,mww,38.0,-15.3983,-172.968,"Hihifo, Tonga",,

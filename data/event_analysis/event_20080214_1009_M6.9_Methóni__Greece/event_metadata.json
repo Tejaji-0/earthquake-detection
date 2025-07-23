@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 35 km S of Meth\u00f3ni, Greece",
+    "magnitude": 6.9,
+    "date_time": "2008-02-14T10:09:00",
+    "latitude": 36.501,
+    "longitude": 21.67,
+    "location": "Meth\u00f3ni, Greece",
+    "depth": 29.0,
+    "significance": 941
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

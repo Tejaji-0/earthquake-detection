@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 8 km NNE of Palapag, Philippines",
+    "magnitude": 7.1,
+    "date_time": "1996-06-11T18:22:00",
+    "latitude": 12.614,
+    "longitude": 125.154,
+    "location": "Palapag, Philippines",
+    "depth": 33.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

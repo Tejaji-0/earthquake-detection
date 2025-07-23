@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+M 6.6 - ,6.6,2022-11-09 10:14:00,0,2,green,1,670,us,131,4.998,27.0,mww,624.464,-25.5948,178.278,,,

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 56 km E of Luganville, Vanuatu",
+    "magnitude": 7.2,
+    "date_time": "2007-08-01T17:08:00",
+    "latitude": -15.595,
+    "longitude": 167.68,
+    "location": "Luganville, Vanuatu",
+    "depth": 120.0,
+    "significance": 803
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

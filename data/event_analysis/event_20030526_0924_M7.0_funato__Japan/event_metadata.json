@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 27 km SSW of ?funato, Japan",
+    "magnitude": 7.0,
+    "date_time": "2003-05-26T09:24:00",
+    "latitude": 38.849,
+    "longitude": 141.568,
+    "location": "?funato, Japan",
+    "depth": 68.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

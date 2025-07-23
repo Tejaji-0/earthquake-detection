@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 46 km WSW of Dalbandin, Pakistan",
+    "magnitude": 7.2,
+    "date_time": "2011-01-18T20:23:00",
+    "latitude": 28.777,
+    "longitude": 63.951,
+    "location": "Dalbandin, Pakistan",
+    "depth": 68.0,
+    "significance": 1449
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

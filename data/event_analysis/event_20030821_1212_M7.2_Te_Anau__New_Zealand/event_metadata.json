@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 56 km NW of Te Anau, New Zealand",
+    "magnitude": 7.2,
+    "date_time": "2003-08-21T12:12:00",
+    "latitude": -45.104,
+    "longitude": 167.144,
+    "location": "Te Anau, New Zealand",
+    "depth": 28.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

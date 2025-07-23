@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - near the coast of Ecuador",
+    "magnitude": 6.8,
+    "date_time": "2023-03-18T17:12:00",
+    "latitude": -2.851,
+    "longitude": -79.8001,
+    "location": "Ecuador",
+    "depth": 65.842,
+    "significance": 1159
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

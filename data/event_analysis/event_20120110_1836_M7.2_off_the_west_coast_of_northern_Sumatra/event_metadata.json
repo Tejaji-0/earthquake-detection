@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - off the west coast of northern Sumatra",
+    "magnitude": 7.2,
+    "date_time": "2012-01-10T18:36:00",
+    "latitude": 2.433,
+    "longitude": 93.21,
+    "location": "off the west coast of northern Sumatra",
+    "depth": 19.0,
+    "significance": 838
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

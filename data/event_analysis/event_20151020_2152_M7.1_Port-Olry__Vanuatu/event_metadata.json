@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 31 km NE of Port-Olry, Vanuatu",
+    "magnitude": 7.1,
+    "date_time": "2015-10-20T21:52:00",
+    "latitude": -14.8595,
+    "longitude": 167.303,
+    "location": "Port-Olry, Vanuatu",
+    "depth": 135.0,
+    "significance": 780
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

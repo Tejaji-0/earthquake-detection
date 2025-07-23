@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - Nicobar Islands, India region",
+    "magnitude": 7.2,
+    "date_time": "2005-07-24T15:42:00",
+    "latitude": 7.92,
+    "longitude": 92.19,
+    "location": "Nicobar Islands, India region",
+    "depth": 16.0,
+    "significance": 808
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

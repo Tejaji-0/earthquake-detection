@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 185 km WNW of I\u00f1apari, Peru",
+    "magnitude": 7.6,
+    "date_time": "2015-11-24T22:50:00",
+    "latitude": -10.0598,
+    "longitude": -71.0184,
+    "location": "I\u00f1apari, Peru",
+    "depth": 620.56,
+    "significance": 896
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 1
+  }
+}

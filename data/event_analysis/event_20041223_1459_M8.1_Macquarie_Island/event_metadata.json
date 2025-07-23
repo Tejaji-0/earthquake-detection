@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.1 - north of Macquarie Island",
+    "magnitude": 8.1,
+    "date_time": "2004-12-23T14:59:00",
+    "latitude": -49.312,
+    "longitude": 161.345,
+    "location": "Macquarie Island",
+    "depth": 10.0,
+    "significance": 1009
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

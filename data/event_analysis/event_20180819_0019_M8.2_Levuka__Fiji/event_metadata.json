@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.2 - 267 km E of Levuka, Fiji",
+    "magnitude": 8.2,
+    "date_time": "2018-08-19T00:19:00",
+    "latitude": -18.1125,
+    "longitude": -178.153,
+    "location": "Levuka, Fiji",
+    "depth": 600.0,
+    "significance": 1050
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

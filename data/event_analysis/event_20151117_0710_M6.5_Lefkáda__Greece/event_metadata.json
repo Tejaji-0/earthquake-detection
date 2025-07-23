@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 19 km SSW of Lefk\u00e1da, Greece",
+    "magnitude": 6.5,
+    "date_time": "2015-11-17T07:10:00",
+    "latitude": 38.67,
+    "longitude": 20.6,
+    "location": "Lefk\u00e1da, Greece",
+    "depth": 11.0,
+    "significance": 1018
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 189 km SSE of Tabiauan, Philippines",
+    "magnitude": 7.3,
+    "date_time": "2017-01-10T06:13:00",
+    "latitude": 4.4782,
+    "longitude": 122.617,
+    "location": "Tabiauan, Philippines",
+    "depth": 627.17,
+    "significance": 849
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

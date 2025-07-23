@@ -1,0 +1,6 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 8.0 - 75 km W of Lata, Solomon Islands",8.0,2013-02-06 01:12:00,8,7,green,1,993,us,460,0.0,20.9,mww,24.0,-10.799,165.114,"Lata, Solomon Islands",,
+"M 7.1 - 112 km WSW of Lata, Solomon Islands",7.1,2013-02-06 01:23:00,0,5,green,0,776,us,550,0.0,18.4,mww,10.0,-11.183,164.882,"Lata, Solomon Islands",,
+"M 7.0 - 33 km NW of Lata, Solomon Islands",7.0,2013-02-06 01:54:00,0,6,green,0,754,us,445,0.0,17.5,mww,8.8,-10.499,165.588,"Lata, Solomon Islands",,Solomon Islands
+"M 6.7 - 33 km SSW of Lata, Solomon Islands",6.7,2013-02-07 18:59:00,0,6,green,1,691,us,387,0.0,26.5,mww,11.0,-10.997,165.655,"Lata, Solomon Islands",,Solomon Islands
+"M 6.8 - 22 km ESE of Lata, Solomon Islands",6.8,2013-02-08 11:12:00,0,7,green,1,711,us,400,0.0,17.5,mww,12.0,-10.838,165.969,"Lata, Solomon Islands",,Solomon Islands

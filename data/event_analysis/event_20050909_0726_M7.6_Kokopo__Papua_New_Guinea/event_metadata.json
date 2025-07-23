@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 135 km E of Kokopo, Papua New Guinea",
+    "magnitude": 7.6,
+    "date_time": "2005-09-09T07:26:00",
+    "latitude": -4.539,
+    "longitude": 153.474,
+    "location": "Kokopo, Papua New Guinea",
+    "depth": 90.0,
+    "significance": 891
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

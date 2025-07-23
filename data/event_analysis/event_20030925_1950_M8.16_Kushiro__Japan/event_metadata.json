@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.2 - 134 km SSW of Kushiro, Japan",
+    "magnitude": 8.16,
+    "date_time": "2003-09-25T19:50:00",
+    "latitude": 41.815,
+    "longitude": 143.91,
+    "location": "Kushiro, Japan",
+    "depth": 27.0,
+    "significance": 1024
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 28 km SW of Puerto San Jos\u00e9, Guatemala",
+    "magnitude": 6.8,
+    "date_time": "2017-06-22T12:31:00",
+    "latitude": 13.7174,
+    "longitude": -90.9718,
+    "location": "Puerto San Jos\u00e9, Guatemala",
+    "depth": 38.12,
+    "significance": 1034
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

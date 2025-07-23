@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.7 - 113 km NW of Bela, Pakistan",7.7,2013-09-24 11:29:00,5,8,red,0,2015,us,0,7.241,17.0,mww,15.0,26.951,65.5009,"Bela, Pakistan",Asia,Pakistan

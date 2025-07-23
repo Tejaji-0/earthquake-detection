@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 93km NNE of Laiwui, Indonesia",
+    "magnitude": 7.2,
+    "date_time": "2019-07-14T09:10:00",
+    "latitude": -0.5858,
+    "longitude": 128.034,
+    "location": "Laiwui, Indonesia",
+    "depth": 18.98,
+    "significance": 809
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

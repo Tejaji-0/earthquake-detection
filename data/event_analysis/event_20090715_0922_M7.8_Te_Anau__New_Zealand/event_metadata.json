@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 97 km WSW of Te Anau, New Zealand",
+    "magnitude": 7.8,
+    "date_time": "2009-07-15T09:22:00",
+    "latitude": -45.762,
+    "longitude": 166.562,
+    "location": "Te Anau, New Zealand",
+    "depth": 12.0,
+    "significance": 1165
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

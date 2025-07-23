@@ -1,0 +1,63 @@
+{
+  "event_info": {
+    "title": "M 7.8 - Central Turkey",
+    "magnitude": 7.8,
+    "datetime": "2023-02-06T01:17:35",
+    "latitude": 37.166,
+    "longitude": 37.042,
+    "location": "Central Turkey"
+  },
+  "stations": [
+    {
+      "network": "KO",
+      "station": "KONS",
+      "name": "Ankara, Turkey",
+      "latitude": 39.8467,
+      "longitude": 32.8627,
+      "distance_km": 470.11399860497625,
+      "data_retrieved": {
+        "before": false,
+        "after": false
+      }
+    },
+    {
+      "network": "II",
+      "station": "ANTO",
+      "name": "Ankara, Turkey",
+      "latitude": 39.8683,
+      "longitude": 32.7934,
+      "distance_km": 476.2571768205358,
+      "data_retrieved": {
+        "before": false,
+        "after": false
+      }
+    },
+    {
+      "network": "HL",
+      "station": "JER",
+      "name": "Jerusalem, Israel",
+      "latitude": 31.773,
+      "longitude": 35.2045,
+      "distance_km": 622.8422080361256,
+      "data_retrieved": {
+        "before": false,
+        "after": false
+      }
+    }
+  ],
+  "data_periods": {
+    "before": {
+      "start": "2023-01-07T01:17:35",
+      "end": "2023-02-06T00:17:35",
+      "duration_days": 30
+    },
+    "after": {
+      "start": "2023-02-06T02:17:35",
+      "end": "2023-03-08T01:17:35",
+      "duration_days": 30
+    }
+  },
+  "processing_time": "2025-07-23T21:42:18.705182",
+  "successful_retrievals": 0,
+  "status": "completed"
+}

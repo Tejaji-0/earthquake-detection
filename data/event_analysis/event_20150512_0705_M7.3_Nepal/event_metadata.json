@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - Nepal",
+    "magnitude": 7.3,
+    "date_time": "2015-05-12T07:05:00",
+    "latitude": 27.8087,
+    "longitude": 86.0655,
+    "location": "Nepal",
+    "depth": 15.0,
+    "significance": 1563
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 0
+  }
+}

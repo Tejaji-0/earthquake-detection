@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 33km NW of Bulolo, Papua New Guinea",
+    "magnitude": 7.1,
+    "date_time": "2019-05-06T21:19:00",
+    "latitude": -6.9746,
+    "longitude": 146.449,
+    "location": "Bulolo, Papua New Guinea",
+    "depth": 146.0,
+    "significance": 826
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

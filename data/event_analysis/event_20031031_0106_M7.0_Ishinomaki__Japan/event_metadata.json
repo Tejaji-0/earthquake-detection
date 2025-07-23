@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 133 km ESE of Ishinomaki, Japan",
+    "magnitude": 7.0,
+    "date_time": "2003-10-31T01:06:00",
+    "latitude": 37.812,
+    "longitude": 142.619,
+    "location": "Ishinomaki, Japan",
+    "depth": 10.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

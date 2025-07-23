@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 72 km ESE of Kimbe, Papua New Guinea",
+    "magnitude": 7.0,
+    "date_time": "2010-08-04T22:01:00",
+    "latitude": -5.746,
+    "longitude": 150.765,
+    "location": "Kimbe, Papua New Guinea",
+    "depth": 44.0,
+    "significance": 757
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 0
+  }
+}

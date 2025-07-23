@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.7 - 99 km WSW of Kokopo, Papua New Guinea",6.7,1995-08-14 04:37:00,0,6,,0,691,us,0,0.0,0.0,mw,127.9,-4.836,151.515,"Kokopo, Papua New Guinea",,Papua New Guinea
+"M 7.7 - 155 km WNW of Panguna, Papua New Guinea",7.7,1995-08-16 10:27:00,0,6,,0,912,us,0,0.0,0.0,mw,30.1,-5.799,154.178,"Panguna, Papua New Guinea",,
+"M 6.6 - 205 km SE of Kokopo, Papua New Guinea",6.6,1995-08-16 16:24:00,0,4,,0,670,us,0,0.0,0.0,mw,18.7,-5.429,153.773,"Kokopo, Papua New Guinea",,

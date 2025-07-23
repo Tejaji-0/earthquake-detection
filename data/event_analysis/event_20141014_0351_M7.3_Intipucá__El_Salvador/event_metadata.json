@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 74 km S of Intipuc\u00e1, El Salvador",
+    "magnitude": 7.3,
+    "date_time": "2014-10-14T03:51:00",
+    "latitude": 12.5262,
+    "longitude": -88.1225,
+    "location": "Intipuc\u00e1, El Salvador",
+    "depth": 40.0,
+    "significance": 982
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 187 km SE of Ust\u2019-Kamchatsk Staryy, Russia",
+    "magnitude": 7.3,
+    "date_time": "2018-12-20T17:01:00",
+    "latitude": 55.0999,
+    "longitude": 164.699,
+    "location": "Ust\u2019-Kamchatsk Staryy, Russia",
+    "depth": 16.56,
+    "significance": 822
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

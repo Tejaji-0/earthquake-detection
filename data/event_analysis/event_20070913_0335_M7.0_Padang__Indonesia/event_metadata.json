@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 153 km SSW of Padang, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2007-09-13T03:35:00",
+    "latitude": -2.13,
+    "longitude": 99.627,
+    "location": "Padang, Indonesia",
+    "depth": 22.0,
+    "significance": 768
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 4,
+    "events_after": 1
+  }
+}

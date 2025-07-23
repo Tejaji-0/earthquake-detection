@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 89 km E of Luwuk, Indonesia",
+    "magnitude": 7.6,
+    "date_time": "2000-05-04T04:21:00",
+    "latitude": -1.105,
+    "longitude": 123.573,
+    "location": "Luwuk, Indonesia",
+    "depth": 26.0,
+    "significance": 889
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

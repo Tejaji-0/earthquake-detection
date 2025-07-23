@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 46 km NW of Guanaja, Honduras",
+    "magnitude": 7.3,
+    "date_time": "2009-05-28T08:24:00",
+    "latitude": 16.731,
+    "longitude": -86.217,
+    "location": "Guanaja, Honduras",
+    "depth": 19.0,
+    "significance": 1560
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

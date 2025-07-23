@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 133 km SSE of Isangel, Vanuatu",
+    "magnitude": 7.0,
+    "date_time": "2011-09-03T22:55:00",
+    "latitude": -20.671,
+    "longitude": 169.716,
+    "location": "Isangel, Vanuatu",
+    "depth": 185.1,
+    "significance": 761
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 0
+  }
+}

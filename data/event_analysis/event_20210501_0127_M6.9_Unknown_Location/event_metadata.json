@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - ",
+    "magnitude": 6.9,
+    "date_time": "2021-05-01T01:27:00",
+    "latitude": 38.2296,
+    "longitude": 141.665,
+    "location": "Unknown Location",
+    "depth": 43.0,
+    "significance": 919
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

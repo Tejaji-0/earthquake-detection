@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 118 km NNE of Tadine, New Caledonia",
+    "magnitude": 7.0,
+    "date_time": "2011-01-13T16:16:00",
+    "latitude": -20.628,
+    "longitude": 168.471,
+    "location": "Tadine, New Caledonia",
+    "depth": 9.0,
+    "significance": 755
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 32 km S of La Libertad, El Salvador",
+    "magnitude": 6.6,
+    "date_time": "2019-05-30T09:03:00",
+    "latitude": 13.1994,
+    "longitude": -89.3056,
+    "location": "La Libertad, El Salvador",
+    "depth": 57.92,
+    "significance": 886
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

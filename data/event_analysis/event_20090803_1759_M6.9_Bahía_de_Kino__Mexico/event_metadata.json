@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 96 km WNW of Bah\u00eda de Kino, Mexico",
+    "magnitude": 6.9,
+    "date_time": "2009-08-03T17:59:00",
+    "latitude": 29.039,
+    "longitude": -112.903,
+    "location": "Bah\u00eda de Kino, Mexico",
+    "depth": 10.0,
+    "significance": 1202
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

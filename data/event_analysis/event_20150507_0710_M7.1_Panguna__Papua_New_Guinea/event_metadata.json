@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 143 km SW of Panguna, Papua New Guinea",
+    "magnitude": 7.1,
+    "date_time": "2015-05-07T07:10:00",
+    "latitude": -7.2175,
+    "longitude": 154.557,
+    "location": "Panguna, Papua New Guinea",
+    "depth": 10.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 3,
+    "events_after": 0
+  }
+}

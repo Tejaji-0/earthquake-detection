@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 153 km NW of Tobelo, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2023-01-18T06:06:00",
+    "latitude": 2.7401,
+    "longitude": 127.051,
+    "location": "Tobelo, Indonesia",
+    "depth": 28.566,
+    "significance": 756
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

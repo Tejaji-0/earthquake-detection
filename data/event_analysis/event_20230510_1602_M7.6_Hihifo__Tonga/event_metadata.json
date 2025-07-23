@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 95 km WNW of Hihifo, Tonga",
+    "magnitude": 7.6,
+    "date_time": "2023-05-10T16:02:00",
+    "latitude": -15.6002,
+    "longitude": -174.608,
+    "location": "Hihifo, Tonga",
+    "depth": 210.097,
+    "significance": 907
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

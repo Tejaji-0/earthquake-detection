@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 252 km ENE of Kuril\u2019sk, Russia",
+    "magnitude": 7.2,
+    "date_time": "2013-04-19T03:05:00",
+    "latitude": 46.221,
+    "longitude": 150.788,
+    "location": "Kuril\u2019sk, Russia",
+    "depth": 110.0,
+    "significance": 804
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

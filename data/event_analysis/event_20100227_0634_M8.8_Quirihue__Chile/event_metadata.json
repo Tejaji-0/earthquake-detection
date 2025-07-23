@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.8 - 36 km WNW of Quirihue, Chile",
+    "magnitude": 8.8,
+    "date_time": "2010-02-27T06:34:00",
+    "latitude": -36.122,
+    "longitude": -72.898,
+    "location": "Quirihue, Chile",
+    "depth": 22.9,
+    "significance": 1991
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 5
+  }
+}

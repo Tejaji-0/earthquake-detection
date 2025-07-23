@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 27 km SSE of Muisne, Ecuador",
+    "magnitude": 7.8,
+    "date_time": "2016-04-16T23:58:00",
+    "latitude": 0.3819,
+    "longitude": -79.9218,
+    "location": "Muisne, Ecuador",
+    "depth": 20.59,
+    "significance": 1163
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

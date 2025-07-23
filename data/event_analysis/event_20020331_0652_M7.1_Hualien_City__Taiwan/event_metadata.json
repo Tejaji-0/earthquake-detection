@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 67 km ENE of Hualien City, Taiwan",
+    "magnitude": 7.1,
+    "date_time": "2002-03-31T06:52:00",
+    "latitude": 24.279,
+    "longitude": 122.179,
+    "location": "Hualien City, Taiwan",
+    "depth": 32.8,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 155 km NW of Ternate, Indonesia",
+    "magnitude": 7.1,
+    "date_time": "2014-11-15T02:31:00",
+    "latitude": 1.8929,
+    "longitude": 126.522,
+    "location": "Ternate, Indonesia",
+    "depth": 45.0,
+    "significance": 779
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 3
+  }
+}

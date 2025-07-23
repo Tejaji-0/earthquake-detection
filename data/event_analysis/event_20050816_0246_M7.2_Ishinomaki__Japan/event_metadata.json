@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 66 km ESE of Ishinomaki, Japan",
+    "magnitude": 7.2,
+    "date_time": "2005-08-16T02:46:00",
+    "latitude": 38.276,
+    "longitude": 142.039,
+    "location": "Ishinomaki, Japan",
+    "depth": 36.0,
+    "significance": 1104
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

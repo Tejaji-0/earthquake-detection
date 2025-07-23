@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 98 km S of Sand Point, Alaska",
+    "magnitude": 7.2,
+    "date_time": "2023-07-16T06:48:00",
+    "latitude": 54.3844,
+    "longitude": -160.699,
+    "location": "Sand Point, Alaska",
+    "depth": 32.571,
+    "significance": 860
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

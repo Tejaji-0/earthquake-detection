@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - northern Qinghai, China",
+    "magnitude": 6.6,
+    "date_time": "2022-01-07T17:45:00",
+    "latitude": 37.8167,
+    "longitude": 101.299,
+    "location": "northern Qinghai, China",
+    "depth": 13.0,
+    "significance": 1012
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

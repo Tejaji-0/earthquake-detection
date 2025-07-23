@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 21 km SSW of Kamari\u00f3tissa, Greece",
+    "magnitude": 6.9,
+    "date_time": "2014-05-24T09:25:00",
+    "latitude": 40.2893,
+    "longitude": 25.3889,
+    "location": "Kamari\u00f3tissa, Greece",
+    "depth": 6.43,
+    "significance": 951
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

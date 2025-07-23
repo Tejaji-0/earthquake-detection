@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 95 km W of Pariaman, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "1998-04-01T17:56:00",
+    "latitude": -0.544,
+    "longitude": 99.261,
+    "location": "Pariaman, Indonesia",
+    "depth": 55.7,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

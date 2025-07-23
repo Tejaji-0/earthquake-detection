@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 50 km WNW of Aitape, Papua New Guinea",
+    "magnitude": 7.0,
+    "date_time": "1998-07-17T08:49:00",
+    "latitude": -2.961,
+    "longitude": 141.926,
+    "location": "Aitape, Papua New Guinea",
+    "depth": 10.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

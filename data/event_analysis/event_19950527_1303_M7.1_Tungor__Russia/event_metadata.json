@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 85 km S of Tungor, Russia",
+    "magnitude": 7.1,
+    "date_time": "1995-05-27T13:03:00",
+    "latitude": 52.629,
+    "longitude": 142.827,
+    "location": "Tungor, Russia",
+    "depth": 11.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 138 km SW of Palimbang, Philippines",
+    "magnitude": 7.1,
+    "date_time": "2005-02-05T12:23:00",
+    "latitude": 5.293,
+    "longitude": 123.337,
+    "location": "Palimbang, Philippines",
+    "depth": 525.0,
+    "significance": 782
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

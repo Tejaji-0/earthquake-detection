@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 37 km E of Balkanabat, Turkmenistan",
+    "magnitude": 7.0,
+    "date_time": "2000-12-06T17:11:00",
+    "latitude": 39.566,
+    "longitude": 54.799,
+    "location": "Balkanabat, Turkmenistan",
+    "depth": 30.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

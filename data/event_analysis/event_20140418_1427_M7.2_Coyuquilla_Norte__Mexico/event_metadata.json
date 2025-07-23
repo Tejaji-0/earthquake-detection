@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 9 km ENE of Coyuquilla Norte, Mexico",
+    "magnitude": 7.2,
+    "date_time": "2014-04-18T14:27:00",
+    "latitude": 17.397,
+    "longitude": -100.972,
+    "location": "Coyuquilla Norte, Mexico",
+    "depth": 24.0,
+    "significance": 1017
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

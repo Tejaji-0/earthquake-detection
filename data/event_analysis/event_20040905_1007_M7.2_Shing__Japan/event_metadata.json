@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 94 km SE of Shing?, Japan",
+    "magnitude": 7.2,
+    "date_time": "2004-09-05T10:07:00",
+    "latitude": 33.07,
+    "longitude": 136.618,
+    "location": "Shing?, Japan",
+    "depth": 14.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

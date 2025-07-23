@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 125 km W of Port-Vila, Vanuatu",
+    "magnitude": 7.1,
+    "date_time": "2012-02-02T13:34:00",
+    "latitude": -17.827,
+    "longitude": 167.133,
+    "location": "Port-Vila, Vanuatu",
+    "depth": 23.0,
+    "significance": 793
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

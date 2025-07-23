@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 69 km WSW of Kirakira, Solomon Islands",
+    "magnitude": 7.8,
+    "date_time": "2016-12-08T17:38:00",
+    "latitude": -10.6812,
+    "longitude": 161.327,
+    "location": "Kirakira, Solomon Islands",
+    "depth": 40.0,
+    "significance": 961
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

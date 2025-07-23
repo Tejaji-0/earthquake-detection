@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 61 km W of Bantogon, Philippines",
+    "magnitude": 7.6,
+    "date_time": "2010-07-23T22:51:00",
+    "latitude": 6.497,
+    "longitude": 123.48,
+    "location": "Bantogon, Philippines",
+    "depth": 578.0,
+    "significance": 902
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

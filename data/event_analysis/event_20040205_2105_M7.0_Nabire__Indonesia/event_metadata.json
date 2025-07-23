@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 28 km S of Nabire, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2004-02-05T21:05:00",
+    "latitude": -3.615,
+    "longitude": 135.538,
+    "location": "Nabire, Indonesia",
+    "depth": 16.6,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

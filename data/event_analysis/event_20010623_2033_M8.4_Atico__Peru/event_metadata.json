@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.4 - 6 km SSW of Atico, Peru",
+    "magnitude": 8.4,
+    "date_time": "2001-06-23T20:33:00",
+    "latitude": -16.265,
+    "longitude": -73.641,
+    "location": "Atico, Peru",
+    "depth": 33.0,
+    "significance": 1086
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 3
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 205 km ESE of Neiafu, Tonga",
+    "magnitude": 7.3,
+    "date_time": "2022-11-11T10:48:00",
+    "latitude": -19.2918,
+    "longitude": -172.129,
+    "location": "Neiafu, Tonga",
+    "depth": 37.0,
+    "significance": 833
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

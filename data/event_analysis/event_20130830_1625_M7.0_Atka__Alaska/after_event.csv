@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 81 km SSW of Atka, Alaska",6.5,2013-09-04 02:32:00,0,6,green,1,650,us,0,0.735,24.0,mww,20.0,51.5573,-174.767,"Atka, Alaska",,

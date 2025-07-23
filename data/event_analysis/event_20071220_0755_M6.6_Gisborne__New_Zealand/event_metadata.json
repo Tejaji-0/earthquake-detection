@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 46 km SSE of Gisborne, New Zealand",
+    "magnitude": 6.6,
+    "date_time": "2007-12-20T07:55:00",
+    "latitude": -39.011,
+    "longitude": 178.291,
+    "location": "Gisborne, New Zealand",
+    "depth": 20.0,
+    "significance": 808
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

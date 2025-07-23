@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 4 km W of Puerto Madero, Mexico",
+    "magnitude": 6.9,
+    "date_time": "2014-07-07T11:23:00",
+    "latitude": 14.724,
+    "longitude": -92.4614,
+    "location": "Puerto Madero, Mexico",
+    "depth": 53.0,
+    "significance": 1079
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

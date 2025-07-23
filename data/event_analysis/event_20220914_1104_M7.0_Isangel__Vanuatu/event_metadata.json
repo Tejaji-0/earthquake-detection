@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 209 km SSE of Isangel, Vanuatu",
+    "magnitude": 7.0,
+    "date_time": "2022-09-14T11:04:00",
+    "latitude": -21.2077,
+    "longitude": 170.239,
+    "location": "Isangel, Vanuatu",
+    "depth": 137.0,
+    "significance": 761
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

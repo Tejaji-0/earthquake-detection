@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 112 km S of Kirakira, Solomon Islands",
+    "magnitude": 7.4,
+    "date_time": "2014-04-13T12:36:00",
+    "latitude": -11.4633,
+    "longitude": 162.051,
+    "location": "Kirakira, Solomon Islands",
+    "depth": 39.0,
+    "significance": 842
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 1
+  }
+}

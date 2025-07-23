@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 48 km WNW of P\u00f3lis, Cyprus",
+    "magnitude": 6.6,
+    "date_time": "2022-01-11T01:07:00",
+    "latitude": 35.1456,
+    "longitude": 31.9095,
+    "location": "P\u00f3lis, Cyprus",
+    "depth": 21.0,
+    "significance": 976
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

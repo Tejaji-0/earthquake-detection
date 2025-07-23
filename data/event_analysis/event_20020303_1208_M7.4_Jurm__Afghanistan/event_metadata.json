@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 51 km SW of Jurm, Afghanistan",
+    "magnitude": 7.4,
+    "date_time": "2002-03-03T12:08:00",
+    "latitude": 36.502,
+    "longitude": 70.482,
+    "location": "Jurm, Afghanistan",
+    "depth": 225.6,
+    "significance": 842
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

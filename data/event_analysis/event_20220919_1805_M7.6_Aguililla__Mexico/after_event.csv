@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.8 - 55 km SSW of Aguililla, Mexico",6.8,2022-09-22 06:16:00,8,7,yellow,1,1179,us,175,2.137,92.0,mww,20.0,18.33,-102.913,"Aguililla, Mexico",North America,Mexico

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 77 km ENE of Ba, Fiji",
+    "magnitude": 7.3,
+    "date_time": "2009-11-09T10:44:00",
+    "latitude": -17.239,
+    "longitude": 178.331,
+    "location": "Ba, Fiji",
+    "depth": 595.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

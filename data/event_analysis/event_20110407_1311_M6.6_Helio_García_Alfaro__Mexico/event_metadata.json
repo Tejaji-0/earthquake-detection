@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 7 km SW of Helio Garc\u00eda Alfaro, Mexico",
+    "magnitude": 6.6,
+    "date_time": "2011-04-07T13:11:00",
+    "latitude": 17.208,
+    "longitude": -94.338,
+    "location": "Helio Garc\u00eda Alfaro, Mexico",
+    "depth": 166.2,
+    "significance": 897
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 181 km N of Palu, Indonesia",
+    "magnitude": 7.9,
+    "date_time": "1996-01-01T08:05:00",
+    "latitude": 0.729,
+    "longitude": 119.931,
+    "location": "Palu, Indonesia",
+    "depth": 24.0,
+    "significance": 960
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

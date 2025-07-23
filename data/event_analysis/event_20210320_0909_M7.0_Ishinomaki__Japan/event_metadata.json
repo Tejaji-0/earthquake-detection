@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 30 km E of Ishinomaki, Japan",
+    "magnitude": 7.0,
+    "date_time": "2021-03-20T09:09:00",
+    "latitude": 38.4752,
+    "longitude": 141.607,
+    "location": "Ishinomaki, Japan",
+    "depth": 43.0,
+    "significance": 1052
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

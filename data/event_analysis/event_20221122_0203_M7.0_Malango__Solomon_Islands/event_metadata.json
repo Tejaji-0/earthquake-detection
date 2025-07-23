@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 18 km SW of Malango, Solomon Islands",
+    "magnitude": 7.0,
+    "date_time": "2022-11-22T02:03:00",
+    "latitude": -9.7963,
+    "longitude": 159.596,
+    "location": "Malango, Solomon Islands",
+    "depth": 14.0,
+    "significance": 768
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

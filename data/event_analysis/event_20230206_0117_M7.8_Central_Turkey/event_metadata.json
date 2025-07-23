@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - Central Turkey",
+    "magnitude": 7.8,
+    "date_time": "2023-02-06T01:17:00",
+    "latitude": 37.2012,
+    "longitude": 36.9997,
+    "location": "Central Turkey",
+    "depth": 17.925,
+    "significance": 2910
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

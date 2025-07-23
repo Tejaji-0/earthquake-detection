@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 35 km NNE of Rengasdengklok, Indonesia",
+    "magnitude": 7.5,
+    "date_time": "2007-08-08T17:05:00",
+    "latitude": -5.859,
+    "longitude": 107.419,
+    "location": "Rengasdengklok, Indonesia",
+    "depth": 280.0,
+    "significance": 865
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

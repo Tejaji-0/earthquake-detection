@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 140 km E of Kokopo, Papua New Guinea",
+    "magnitude": 7.9,
+    "date_time": "2016-12-17T10:51:00",
+    "latitude": -4.5049,
+    "longitude": 153.522,
+    "location": "Kokopo, Papua New Guinea",
+    "depth": 94.54,
+    "significance": 972
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

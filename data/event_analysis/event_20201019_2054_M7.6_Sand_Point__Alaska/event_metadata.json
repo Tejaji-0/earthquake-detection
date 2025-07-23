@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 99 km SE of Sand Point, Alaska",
+    "magnitude": 7.6,
+    "date_time": "2020-10-19T20:54:00",
+    "latitude": 54.662,
+    "longitude": -159.675,
+    "location": "Sand Point, Alaska",
+    "depth": 28.37,
+    "significance": 1165
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

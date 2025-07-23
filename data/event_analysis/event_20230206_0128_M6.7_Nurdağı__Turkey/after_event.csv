@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.5 - 4 km SSE of Ekinözü, Turkey",7.5,2023-02-06 10:24:00,9,9,orange,0,1411,us,135,0.85,17.0,mww,10.0,38.0235,37.203,"Ekinözü, Turkey",Asia,Turkiye

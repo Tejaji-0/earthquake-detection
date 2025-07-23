@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 114 km NNW of Popondetta, Papua New Guinea",
+    "magnitude": 7.0,
+    "date_time": "2020-07-17T02:50:00",
+    "latitude": -7.847,
+    "longitude": 147.755,
+    "location": "Popondetta, Papua New Guinea",
+    "depth": 73.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.6 - 155 km WNW of Iñapari, Peru",7.6,2015-11-24 22:45:00,6,5,green,1,957,us,0,3.287,10.0,mww,606.21,-10.5372,-70.9437,"Iñapari, Peru",South America,Peru

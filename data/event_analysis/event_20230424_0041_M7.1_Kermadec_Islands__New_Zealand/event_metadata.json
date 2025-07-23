@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - Kermadec Islands, New Zealand",
+    "magnitude": 7.1,
+    "date_time": "2023-04-24T00:41:00",
+    "latitude": -30.0249,
+    "longitude": -177.897,
+    "location": "Kermadec Islands, New Zealand",
+    "depth": 43.063,
+    "significance": 777
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 39 km SW of Ovalle, Chile",
+    "magnitude": 6.8,
+    "date_time": "2015-11-07T07:31:00",
+    "latitude": -30.8796,
+    "longitude": -71.4519,
+    "location": "Ovalle, Chile",
+    "depth": 46.0,
+    "significance": 841
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

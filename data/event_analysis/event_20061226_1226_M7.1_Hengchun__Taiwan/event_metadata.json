@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 30 km SW of Hengchun, Taiwan",
+    "magnitude": 7.1,
+    "date_time": "2006-12-26T12:26:00",
+    "latitude": 21.799,
+    "longitude": 120.547,
+    "location": "Hengchun, Taiwan",
+    "depth": 10.0,
+    "significance": 1023
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

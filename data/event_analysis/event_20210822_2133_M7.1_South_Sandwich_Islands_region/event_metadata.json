@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - South Sandwich Islands region",
+    "magnitude": 7.1,
+    "date_time": "2021-08-22T21:33:00",
+    "latitude": -60.3026,
+    "longitude": -24.9992,
+    "location": "South Sandwich Islands region",
+    "depth": 6.0,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 4,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - south of the Fiji Islands",
+    "magnitude": 7.0,
+    "date_time": "2022-11-09T09:51:00",
+    "latitude": -26.0442,
+    "longitude": 178.381,
+    "location": "the Fiji Islands",
+    "depth": 660.0,
+    "significance": 755
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 29 km ENE of Morioka, Japan",
+    "magnitude": 6.8,
+    "date_time": "2008-07-23T15:26:00",
+    "latitude": 39.802,
+    "longitude": 141.464,
+    "location": "Morioka, Japan",
+    "depth": 108.0,
+    "significance": 1046
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 2,
+    "events_after": 0
+  }
+}

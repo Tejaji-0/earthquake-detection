@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 29 km WNW of Luganville, Vanuatu",
+    "magnitude": 7.0,
+    "date_time": "2000-10-04T16:58:00",
+    "latitude": -15.421,
+    "longitude": 166.91,
+    "location": "Luganville, Vanuatu",
+    "depth": 23.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

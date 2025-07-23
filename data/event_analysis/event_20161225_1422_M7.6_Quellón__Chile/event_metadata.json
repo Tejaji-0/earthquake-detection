@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 41 km SW of Quell\u00f3n, Chile",
+    "magnitude": 7.6,
+    "date_time": "2016-12-25T14:22:00",
+    "latitude": -43.4064,
+    "longitude": -73.9413,
+    "location": "Quell\u00f3n, Chile",
+    "depth": 38.0,
+    "significance": 1152
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

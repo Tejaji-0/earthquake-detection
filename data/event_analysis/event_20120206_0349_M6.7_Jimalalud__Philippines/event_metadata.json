@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 2 km NNE of Jimalalud, Philippines",
+    "magnitude": 6.7,
+    "date_time": "2012-02-06T03:49:00",
+    "latitude": 9.999,
+    "longitude": 123.206,
+    "location": "Jimalalud, Philippines",
+    "depth": 11.0,
+    "significance": 1551
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

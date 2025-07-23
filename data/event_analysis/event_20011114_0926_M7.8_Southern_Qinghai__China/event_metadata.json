@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - Southern Qinghai, China",
+    "magnitude": 7.8,
+    "date_time": "2001-11-14T09:26:00",
+    "latitude": 35.946,
+    "longitude": 90.541,
+    "location": "Southern Qinghai, China",
+    "depth": 10.0,
+    "significance": 936
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 86 km NW of Vallenar, Chile",
+    "magnitude": 6.8,
+    "date_time": "2020-09-01T04:09:00",
+    "latitude": -28.013,
+    "longitude": -71.1958,
+    "location": "Vallenar, Chile",
+    "depth": 21.0,
+    "significance": 824
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

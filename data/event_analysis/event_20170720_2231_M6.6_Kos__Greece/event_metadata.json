@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 11 km ENE of Kos, Greece",
+    "magnitude": 6.6,
+    "date_time": "2017-07-20T22:31:00",
+    "latitude": 36.9293,
+    "longitude": 27.4139,
+    "location": "Kos, Greece",
+    "depth": 7.0,
+    "significance": 1064
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

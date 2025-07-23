@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 53 km SE of Kokopo, Papua New Guinea",
+    "magnitude": 7.5,
+    "date_time": "2015-03-29T23:48:00",
+    "latitude": -4.7294,
+    "longitude": 152.562,
+    "location": "Kokopo, Papua New Guinea",
+    "depth": 41.0,
+    "significance": 872
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

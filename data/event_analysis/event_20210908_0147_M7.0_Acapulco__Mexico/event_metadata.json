@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - Acapulco, Mexico",
+    "magnitude": 7.0,
+    "date_time": "2021-09-08T01:47:00",
+    "latitude": 16.9502,
+    "longitude": -99.7877,
+    "location": "Acapulco, Mexico",
+    "depth": 20.0,
+    "significance": 2504
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

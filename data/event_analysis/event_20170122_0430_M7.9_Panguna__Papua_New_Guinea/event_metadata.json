@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 35 km WNW of Panguna, Papua New Guinea",
+    "magnitude": 7.9,
+    "date_time": "2017-01-22T04:30:00",
+    "latitude": -6.2464,
+    "longitude": 155.172,
+    "location": "Panguna, Papua New Guinea",
+    "depth": 135.0,
+    "significance": 987
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

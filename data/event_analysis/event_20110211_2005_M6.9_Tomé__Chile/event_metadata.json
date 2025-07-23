@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 21 km N of Tom\u00e9, Chile",
+    "magnitude": 6.9,
+    "date_time": "2011-02-11T20:05:00",
+    "latitude": -36.422,
+    "longitude": -72.96,
+    "location": "Tom\u00e9, Chile",
+    "depth": 26.0,
+    "significance": 988
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

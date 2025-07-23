@@ -1,0 +1,7 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 8.0 - 24 km N of Rabaul, Papua New Guinea",8.0,2000-11-16 04:54:00,0,7,,0,985,us,254,0.0,0.0,mwc,33.0,-3.98,152.169,"Rabaul, Papua New Guinea",,Papua New Guinea
+"M 7.8 - 135 km SE of Kokopo, Papua New Guinea",7.8,2000-11-16 07:42:00,0,7,,0,936,us,294,0.0,0.0,mwc,30.0,-5.233,153.102,"Kokopo, Papua New Guinea",,
+"M 6.5 - 118 km ESE of Kokopo, Papua New Guinea",6.5,2000-11-16 07:45:00,0,6,,0,650,us,71,0.0,0.0,mb,33.0,-4.827,153.226,"Kokopo, Papua New Guinea",,Papua New Guinea
+"M 7.8 - 138 km SSW of Kokopo, Papua New Guinea",7.8,2000-11-17 21:01:00,0,7,,0,936,us,346,0.0,0.0,mwc,33.0,-5.496,151.781,"Kokopo, Papua New Guinea",,Papua New Guinea
+"M 6.6 - 131 km SE of Kokopo, Papua New Guinea",6.6,2000-11-18 02:05:00,0,6,,0,670,us,267,0.0,0.0,mwc,33.0,-5.097,153.181,"Kokopo, Papua New Guinea",,Papua New Guinea
+"M 6.8 - 112 km SSW of Kokopo, Papua New Guinea",6.8,2000-11-18 06:54:00,0,6,,0,711,us,402,0.0,0.0,mwb,33.0,-5.228,151.771,"Kokopo, Papua New Guinea",,Papua New Guinea

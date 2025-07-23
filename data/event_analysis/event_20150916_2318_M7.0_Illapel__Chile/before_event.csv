@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 8.3 - 48 km W of Illapel, Chile",8.3,2015-09-16 22:54:00,9,8,orange,1,1960,us,0,0.684,19.0,mww,22.44,-31.5729,-71.6744,"Illapel, Chile",,Chile

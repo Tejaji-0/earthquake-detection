@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 31 km SW of Burias, Philippines",
+    "magnitude": 6.9,
+    "date_time": "2017-04-28T20:23:00",
+    "latitude": 5.5043,
+    "longitude": 125.066,
+    "location": "Burias, Philippines",
+    "depth": 26.0,
+    "significance": 814
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

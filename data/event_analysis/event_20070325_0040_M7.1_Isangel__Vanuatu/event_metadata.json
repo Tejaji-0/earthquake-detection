@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 119 km S of Isangel, Vanuatu",
+    "magnitude": 7.1,
+    "date_time": "2007-03-25T00:40:00",
+    "latitude": -20.617,
+    "longitude": 169.357,
+    "location": "Isangel, Vanuatu",
+    "depth": 34.0,
+    "significance": 779
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

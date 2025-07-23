@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 190 km ENE of Kokopo, Papua New Guinea",
+    "magnitude": 7.3,
+    "date_time": "2013-07-07T18:35:00",
+    "latitude": -3.917,
+    "longitude": 153.927,
+    "location": "Kokopo, Papua New Guinea",
+    "depth": 385.5,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

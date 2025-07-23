@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 9.1 - 2011 Great Tohoku Earthquake, Japan",
+    "magnitude": 9.1,
+    "date_time": "2011-03-11T05:46:00",
+    "latitude": 38.297,
+    "longitude": 142.373,
+    "location": "2011 Great Tohoku Earthquake, Japan",
+    "depth": 29.0,
+    "significance": 2184
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 5
+  }
+}

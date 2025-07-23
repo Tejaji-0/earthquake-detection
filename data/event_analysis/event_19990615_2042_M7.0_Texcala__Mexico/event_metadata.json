@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 1 km SE of Texcala, Mexico",
+    "magnitude": 7.0,
+    "date_time": "1999-06-15T20:42:00",
+    "latitude": 18.386,
+    "longitude": -97.436,
+    "location": "Texcala, Mexico",
+    "depth": 70.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

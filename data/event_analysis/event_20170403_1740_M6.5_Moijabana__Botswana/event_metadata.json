@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 132 km WSW of Moijabana, Botswana",
+    "magnitude": 6.5,
+    "date_time": "2017-04-03T17:40:00",
+    "latitude": -22.6784,
+    "longitude": 25.1558,
+    "location": "Moijabana, Botswana",
+    "depth": 29.0,
+    "significance": 1297
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

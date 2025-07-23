@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.9 - 82 km NNW of Port-Olry, Vanuatu",6.9,2016-04-03 08:23:00,7,6,green,1,734,us,0,1.166,25.0,mww,26.0,-14.3235,166.855,"Port-Olry, Vanuatu",,Vanuatu
+"M 6.7 - 102 km WSW of Sola, Vanuatu",6.7,2016-04-06 06:58:00,7,6,green,1,691,us,0,6.697,19.0,mww,24.0,-14.0683,166.624,"Sola, Vanuatu",,Vanuatu
+"M 6.7 - 104 km W of Sola, Vanuatu",6.7,2016-04-07 03:32:00,7,5,green,1,692,us,0,6.787,25.0,mww,27.59,-13.9805,166.594,"Sola, Vanuatu",,Vanuatu

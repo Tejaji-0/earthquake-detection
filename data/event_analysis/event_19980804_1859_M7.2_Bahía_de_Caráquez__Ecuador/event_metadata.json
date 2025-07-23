@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 3 km E of Bah\u00eda de Car\u00e1quez, Ecuador",
+    "magnitude": 7.2,
+    "date_time": "1998-08-04T18:59:00",
+    "latitude": -0.593,
+    "longitude": -80.393,
+    "location": "Bah\u00eda de Car\u00e1quez, Ecuador",
+    "depth": 33.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

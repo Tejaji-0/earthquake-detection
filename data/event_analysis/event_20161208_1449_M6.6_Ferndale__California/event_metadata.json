@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.6 - 164 km W of Ferndale, California",
+    "magnitude": 6.6,
+    "date_time": "2016-12-08T14:49:00",
+    "latitude": 40.4535,
+    "longitude": -126.194,
+    "location": "Ferndale, California",
+    "depth": 8.45,
+    "significance": 1120
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

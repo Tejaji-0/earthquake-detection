@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 76 km SE of Mawlaik, Myanmar",
+    "magnitude": 6.9,
+    "date_time": "2016-04-13T13:55:00",
+    "latitude": 23.0944,
+    "longitude": 94.8654,
+    "location": "Mawlaik, Myanmar",
+    "depth": 136.0,
+    "significance": 903
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

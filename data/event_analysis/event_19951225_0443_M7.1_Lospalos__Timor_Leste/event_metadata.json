@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 297 km NE of Lospalos, Timor Leste",
+    "magnitude": 7.1,
+    "date_time": "1995-12-25T04:43:00",
+    "latitude": -6.903,
+    "longitude": 129.151,
+    "location": "Lospalos, Timor Leste",
+    "depth": 141.9,
+    "significance": 776
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

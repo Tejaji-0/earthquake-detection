@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 40 km W of Valpara\u00edso, Chile",
+    "magnitude": 6.9,
+    "date_time": "2017-04-24T21:38:00",
+    "latitude": -33.0375,
+    "longitude": -72.0617,
+    "location": "Valpara\u00edso, Chile",
+    "depth": 28.0,
+    "significance": 1642
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

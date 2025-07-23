@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 18 km W of Parrita, Costa Rica",
+    "magnitude": 6.5,
+    "date_time": "2017-11-13T02:28:00",
+    "latitude": 9.5147,
+    "longitude": -84.4865,
+    "location": "Parrita, Costa Rica",
+    "depth": 19.36,
+    "significance": 1153
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

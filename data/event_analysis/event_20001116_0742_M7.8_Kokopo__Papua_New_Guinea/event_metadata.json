@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 135 km SE of Kokopo, Papua New Guinea",
+    "magnitude": 7.8,
+    "date_time": "2000-11-16T07:42:00",
+    "latitude": -5.233,
+    "longitude": 153.102,
+    "location": "Kokopo, Papua New Guinea",
+    "depth": 30.0,
+    "significance": 936
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 2,
+    "events_after": 5
+  }
+}

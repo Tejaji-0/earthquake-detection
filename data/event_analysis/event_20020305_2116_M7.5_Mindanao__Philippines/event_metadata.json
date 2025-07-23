@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - Mindanao, Philippines",
+    "magnitude": 7.5,
+    "date_time": "2002-03-05T21:16:00",
+    "latitude": 6.033,
+    "longitude": 124.249,
+    "location": "Mindanao, Philippines",
+    "depth": 31.0,
+    "significance": 865
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

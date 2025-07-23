@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 4 km ESE of Derince, Turkey",
+    "magnitude": 7.6,
+    "date_time": "1999-08-17T00:01:00",
+    "latitude": 40.748,
+    "longitude": 29.864,
+    "location": "Derince, Turkey",
+    "depth": 17.0,
+    "significance": 889
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 119 km ESE of Shizunai-furukawach?, Japan",
+    "magnitude": 7.4,
+    "date_time": "2003-09-25T21:08:00",
+    "latitude": 41.774,
+    "longitude": 143.593,
+    "location": "Shizunai-furukawach?, Japan",
+    "depth": 33.0,
+    "significance": 842
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 2
+  }
+}

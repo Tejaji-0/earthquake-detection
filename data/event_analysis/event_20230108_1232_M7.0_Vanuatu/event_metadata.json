@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - Vanuatu",
+    "magnitude": 7.0,
+    "date_time": "2023-01-08T12:32:00",
+    "latitude": -14.9383,
+    "longitude": 166.878,
+    "location": "Vanuatu",
+    "depth": 29.0,
+    "significance": 768
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

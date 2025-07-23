@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 51 km N of Barranca, Peru",
+    "magnitude": 7.2,
+    "date_time": "1997-10-28T06:15:00",
+    "latitude": -4.368,
+    "longitude": -76.681,
+    "location": "Barranca, Peru",
+    "depth": 112.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

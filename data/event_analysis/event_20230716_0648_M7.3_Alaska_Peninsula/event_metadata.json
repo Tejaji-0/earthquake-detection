@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - Alaska Peninsula",
+    "magnitude": 7.3,
+    "date_time": "2023-07-16T06:48:00",
+    "latitude": 54.49,
+    "longitude": -160.796,
+    "location": "Alaska Peninsula",
+    "depth": 21.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

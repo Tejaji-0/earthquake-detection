@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 124 km W of Lebu, Chile",
+    "magnitude": 7.4,
+    "date_time": "2010-02-27T08:01:00",
+    "latitude": -37.773,
+    "longitude": -75.048,
+    "location": "Lebu, Chile",
+    "depth": 35.0,
+    "significance": 842
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 4
+  }
+}

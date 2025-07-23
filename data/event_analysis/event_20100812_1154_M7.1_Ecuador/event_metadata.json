@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - Ecuador",
+    "magnitude": 7.1,
+    "date_time": "2010-08-12T11:54:00",
+    "latitude": -1.266,
+    "longitude": -77.306,
+    "location": "Ecuador",
+    "depth": 206.7,
+    "significance": 945
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

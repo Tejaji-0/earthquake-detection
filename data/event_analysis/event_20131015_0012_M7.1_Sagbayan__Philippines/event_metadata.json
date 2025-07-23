@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 4 km SE of Sagbayan, Philippines",
+    "magnitude": 7.1,
+    "date_time": "2013-10-15T00:12:00",
+    "latitude": 9.8796,
+    "longitude": 124.117,
+    "location": "Sagbayan, Philippines",
+    "depth": 19.04,
+    "significance": 1092
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

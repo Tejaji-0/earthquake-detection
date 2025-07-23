@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.6 - off the west coast of northern Sumatra",
+    "magnitude": 8.6,
+    "date_time": "2012-04-11T08:38:00",
+    "latitude": 2.327,
+    "longitude": 93.063,
+    "location": "off the west coast of northern Sumatra",
+    "depth": 20.0,
+    "significance": 2048
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

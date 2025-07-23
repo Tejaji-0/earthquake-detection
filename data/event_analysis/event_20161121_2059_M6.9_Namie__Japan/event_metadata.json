@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 35 km ESE of Namie, Japan",
+    "magnitude": 6.9,
+    "date_time": "2016-11-21T20:59:00",
+    "latitude": 37.3931,
+    "longitude": 141.387,
+    "location": "Namie, Japan",
+    "depth": 9.0,
+    "significance": 1144
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

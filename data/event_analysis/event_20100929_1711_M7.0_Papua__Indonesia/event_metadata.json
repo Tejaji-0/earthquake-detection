@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - Near the south coast of Papua, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "2010-09-29T17:11:00",
+    "latitude": -4.963,
+    "longitude": 133.76,
+    "location": "Papua, Indonesia",
+    "depth": 26.0,
+    "significance": 772
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

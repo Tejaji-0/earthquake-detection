@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 1 km S of Matzaco, Mexico",
+    "magnitude": 7.1,
+    "date_time": "2017-09-19T18:14:00",
+    "latitude": 18.5499,
+    "longitude": -98.4887,
+    "location": "Matzaco, Mexico",
+    "depth": 48.0,
+    "significance": 1686
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

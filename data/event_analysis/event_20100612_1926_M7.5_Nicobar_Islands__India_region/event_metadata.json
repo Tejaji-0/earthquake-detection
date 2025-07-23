@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - Nicobar Islands, India region",
+    "magnitude": 7.5,
+    "date_time": "2010-06-12T19:26:00",
+    "latitude": 7.881,
+    "longitude": 91.936,
+    "location": "Nicobar Islands, India region",
+    "depth": 35.0,
+    "significance": 1144
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

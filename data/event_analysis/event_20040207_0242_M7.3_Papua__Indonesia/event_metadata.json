@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - Near the south coast of Papua, Indonesia",
+    "magnitude": 7.3,
+    "date_time": "2004-02-07T02:42:00",
+    "latitude": -4.003,
+    "longitude": 135.023,
+    "location": "Papua, Indonesia",
+    "depth": 10.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 1
+  }
+}

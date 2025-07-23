@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 94 km NW of Vallenar, Chile",6.5,2020-09-01 21:09:00,6,6,green,0,674,us,0,0.388,49.0,mww,16.0,-27.9285,-71.3937,"Vallenar, Chile",,

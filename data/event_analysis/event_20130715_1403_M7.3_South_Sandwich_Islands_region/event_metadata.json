@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - South Sandwich Islands region",
+    "magnitude": 7.3,
+    "date_time": "2013-07-15T14:03:00",
+    "latitude": -60.857,
+    "longitude": -25.07,
+    "location": "South Sandwich Islands region",
+    "depth": 11.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

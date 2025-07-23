@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.1 - 37 km W of Atiquipa, Peru",
+    "magnitude": 7.1,
+    "date_time": "2018-01-14T09:18:00",
+    "latitude": -15.7675,
+    "longitude": -74.7092,
+    "location": "Atiquipa, Peru",
+    "depth": 39.0,
+    "significance": 1075
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

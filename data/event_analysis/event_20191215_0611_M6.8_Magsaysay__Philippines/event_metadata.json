@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.8 - 7 km S of Magsaysay, Philippines",
+    "magnitude": 6.8,
+    "date_time": "2019-12-15T06:11:00",
+    "latitude": 6.6969,
+    "longitude": 125.174,
+    "location": "Magsaysay, Philippines",
+    "depth": 18.0,
+    "significance": 825
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

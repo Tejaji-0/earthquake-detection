@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 18 km ESE of Nurda\u011f\u0131, Turkey",
+    "magnitude": 6.7,
+    "date_time": "2023-02-06T01:28:00",
+    "latitude": 37.4135,
+    "longitude": 36.8306,
+    "location": "Nurda\u011f\u0131, Turkey",
+    "depth": 14.497,
+    "significance": 800
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 1
+  }
+}

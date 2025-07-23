@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 75 km N of San Antonio de los Cobres, Argentina",
+    "magnitude": 7.2,
+    "date_time": "2000-05-12T18:43:00",
+    "latitude": -23.548,
+    "longitude": -66.452,
+    "location": "San Antonio de los Cobres, Argentina",
+    "depth": 225.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

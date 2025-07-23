@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 9 km SE of Santa Mar\u00eda Xadani, Mexico",
+    "magnitude": 7.4,
+    "date_time": "2020-06-23T15:29:00",
+    "latitude": 15.9163,
+    "longitude": -95.9533,
+    "location": "Santa Mar\u00eda Xadani, Mexico",
+    "depth": 20.0,
+    "significance": 1494
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

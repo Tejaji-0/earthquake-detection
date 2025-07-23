@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.2 - 91 km ESE of Perryville, Alaska",
+    "magnitude": 8.2,
+    "date_time": "2021-07-29T06:15:00",
+    "latitude": 55.4742,
+    "longitude": -157.917,
+    "location": "Perryville, Alaska",
+    "depth": 46.66,
+    "significance": 1237
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

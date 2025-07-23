@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - Bonin Islands, Japan region",
+    "magnitude": 7.8,
+    "date_time": "2015-05-30T11:23:00",
+    "latitude": 27.8386,
+    "longitude": 140.493,
+    "location": "Bonin Islands, Japan region",
+    "depth": 664.0,
+    "significance": 1151
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

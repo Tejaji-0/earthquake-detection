@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.9 - 261 km SE of Chiniak, Alaska",
+    "magnitude": 7.9,
+    "date_time": "2018-01-23T09:31:00",
+    "latitude": 56.0039,
+    "longitude": -149.166,
+    "location": "Chiniak, Alaska",
+    "depth": 14.06,
+    "significance": 1870
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

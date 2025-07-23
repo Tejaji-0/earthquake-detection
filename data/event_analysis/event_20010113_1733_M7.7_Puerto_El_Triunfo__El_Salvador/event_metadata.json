@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.7 - 28 km SSW of Puerto El Triunfo, El Salvador",
+    "magnitude": 7.7,
+    "date_time": "2001-01-13T17:33:00",
+    "latitude": 13.049,
+    "longitude": -88.66,
+    "location": "Puerto El Triunfo, El Salvador",
+    "depth": 60.0,
+    "significance": 912
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,2 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.8 - 129 km WSW of Khuzdar, Pakistan",6.8,2013-09-28 07:34:00,7,7,orange,0,1005,us,0,7.359,17.0,mww,12.0,27.1825,65.5052,"Khuzdar, Pakistan",Asia,Pakistan

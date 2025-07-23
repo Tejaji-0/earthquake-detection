@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.0 - 36 km NNE of Antofagasta, Chile",
+    "magnitude": 8.0,
+    "date_time": "1995-07-30T05:11:00",
+    "latitude": -23.34,
+    "longitude": -70.294,
+    "location": "Ant",
+    "depth": 45.6,
+    "significance": 985
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

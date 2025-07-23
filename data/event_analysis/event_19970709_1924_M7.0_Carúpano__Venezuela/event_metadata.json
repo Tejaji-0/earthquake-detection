@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 26 km WSW of Car\u00fapano, Venezuela",
+    "magnitude": 7.0,
+    "date_time": "1997-07-09T19:24:00",
+    "latitude": 10.598,
+    "longitude": -63.486,
+    "location": "Car\u00fapano, Venezuela",
+    "depth": 19.9,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

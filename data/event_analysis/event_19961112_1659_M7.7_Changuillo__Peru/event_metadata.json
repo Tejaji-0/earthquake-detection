@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.7 - 60 km SW of Changuillo, Peru",
+    "magnitude": 7.7,
+    "date_time": "1996-11-12T16:59:00",
+    "latitude": -14.993,
+    "longitude": -75.675,
+    "location": "Changuillo, Peru",
+    "depth": 33.0,
+    "significance": 912
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

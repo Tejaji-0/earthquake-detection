@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 80 km S of Mil\u2019kovo, Russia",
+    "magnitude": 7.2,
+    "date_time": "2016-01-30T03:25:00",
+    "latitude": 53.9776,
+    "longitude": 158.546,
+    "location": "Mil\u2019kovo, Russia",
+    "depth": 177.0,
+    "significance": 799
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

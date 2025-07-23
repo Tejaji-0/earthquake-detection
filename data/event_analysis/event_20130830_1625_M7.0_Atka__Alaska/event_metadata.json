@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 101 km SW of Atka, Alaska",
+    "magnitude": 7.0,
+    "date_time": "2013-08-30T16:25:00",
+    "latitude": 51.537,
+    "longitude": -175.23,
+    "location": "Atka, Alaska",
+    "depth": 29.0,
+    "significance": 758
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

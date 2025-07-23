@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.3 - 120 km SE of ?funato, Japan",7.3,2011-03-09 02:45:00,5,5,,0,972,us,550,0.0,17.4,mww,32.0,38.435,142.842,"?funato, Japan",,
+"M 9.1 - 2011 Great Tohoku Earthquake, Japan",9.1,2011-03-11 05:46:00,9,8,,0,2184,official,541,0.0,9.5,mww,29.0,38.297,142.373,"2011 Great Tohoku Earthquake, Japan",,
+"M 7.9 - 47 km E of ?arai, Japan",7.9,2011-03-11 06:15:00,8,7,,0,1140,us,163,0.0,48.4,mwc,42.6,36.281,141.111,"?arai, Japan",,

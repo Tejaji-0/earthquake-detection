@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 18 km SSW of Leilani Estates, Hawaii",
+    "magnitude": 6.9,
+    "date_time": "2018-05-04T22:32:00",
+    "latitude": 19.3182,
+    "longitude": -155.0,
+    "location": "Leilani Estates, Hawaii",
+    "depth": 5.81,
+    "significance": 1392
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

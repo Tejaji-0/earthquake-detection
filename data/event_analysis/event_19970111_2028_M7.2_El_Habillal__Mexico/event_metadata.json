@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 46 km WNW of El Habillal, Mexico",
+    "magnitude": 7.2,
+    "date_time": "1997-01-11T20:28:00",
+    "latitude": 18.219,
+    "longitude": -102.756,
+    "location": "El Habillal, Mexico",
+    "depth": 33.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

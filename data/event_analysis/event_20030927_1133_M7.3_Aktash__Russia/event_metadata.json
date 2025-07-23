@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.3 - 29 km S of Aktash, Russia",
+    "magnitude": 7.3,
+    "date_time": "2003-09-27T11:33:00",
+    "latitude": 50.038,
+    "longitude": 87.813,
+    "location": "Aktash, Russia",
+    "depth": 16.0,
+    "significance": 820
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

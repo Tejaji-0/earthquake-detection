@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.5 - 221 km SSE of Severo-Kuril\u2019sk, Russia",
+    "magnitude": 7.5,
+    "date_time": "2020-03-25T02:49:00",
+    "latitude": 48.9638,
+    "longitude": 157.695,
+    "location": "Severo-Kuril\u2019sk, Russia",
+    "depth": 57.8,
+    "significance": 879
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

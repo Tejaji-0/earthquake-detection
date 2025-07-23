@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.9 - 39 km SW of Santiago, Peru",
+    "magnitude": 6.9,
+    "date_time": "2011-10-28T18:54:00",
+    "latitude": -14.438,
+    "longitude": -75.966,
+    "location": "Santiago, Peru",
+    "depth": 24.0,
+    "significance": 847
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

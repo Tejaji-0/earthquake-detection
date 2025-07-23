@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - southwest of Sumatra, Indonesia",
+    "magnitude": 7.8,
+    "date_time": "2016-03-02T12:49:00",
+    "latitude": -4.9521,
+    "longitude": 94.3299,
+    "location": "Sumatra, Indonesia",
+    "depth": 24.0,
+    "significance": 948
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.1 - Kermadec Islands, New Zealand",
+    "magnitude": 8.1,
+    "date_time": "2021-03-04T19:28:00",
+    "latitude": -29.7466,
+    "longitude": -177.224,
+    "location": "Kermadec Islands, New Zealand",
+    "depth": 28.93,
+    "significance": 1021
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 13 km NW of Ocozocoautla de Espinosa, Mexico",
+    "magnitude": 7.2,
+    "date_time": "1995-10-21T02:38:00",
+    "latitude": 16.84,
+    "longitude": -93.469,
+    "location": "Ocozocoautla de Espinosa, Mexico",
+    "depth": 159.3,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

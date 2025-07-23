@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 43 km SSE of Iztapa, Guatemala",
+    "magnitude": 6.7,
+    "date_time": "2007-06-13T19:29:00",
+    "latitude": 13.554,
+    "longitude": -90.618,
+    "location": "Iztapa, Guatemala",
+    "depth": 23.0,
+    "significance": 972
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

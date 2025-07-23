@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.8 - 102 km ENE of Iquique, Chile",
+    "magnitude": 7.8,
+    "date_time": "2005-06-13T22:44:00",
+    "latitude": -19.987,
+    "longitude": -69.197,
+    "location": "Iquique, Chile",
+    "depth": 115.6,
+    "significance": 1020
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

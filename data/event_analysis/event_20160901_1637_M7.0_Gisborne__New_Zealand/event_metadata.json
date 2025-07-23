@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 175 km NE of Gisborne, New Zealand",
+    "magnitude": 7.0,
+    "date_time": "2016-09-01T16:37:00",
+    "latitude": -37.3586,
+    "longitude": 179.146,
+    "location": "Gisborne, New Zealand",
+    "depth": 19.0,
+    "significance": 897
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

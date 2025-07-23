@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 52 km NNW of Tom\u00e9, Chile",
+    "magnitude": 6.7,
+    "date_time": "2010-03-16T02:21:00",
+    "latitude": -36.217,
+    "longitude": -73.257,
+    "location": "Tom\u00e9, Chile",
+    "depth": 18.0,
+    "significance": 856
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 5,
+    "events_after": 0
+  }
+}

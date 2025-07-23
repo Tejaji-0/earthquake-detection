@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.5 - 107 km WSW of Vernon, Canada",
+    "magnitude": 6.5,
+    "date_time": "2014-04-24T03:10:00",
+    "latitude": 49.6388,
+    "longitude": -127.732,
+    "location": "Vernon, Canada",
+    "depth": 10.0,
+    "significance": 838
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

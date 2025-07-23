@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - south of the Fiji Islands",
+    "magnitude": 7.2,
+    "date_time": "2023-06-15T18:06:00",
+    "latitude": -22.9824,
+    "longitude": -177.208,
+    "location": "the Fiji Islands",
+    "depth": 167.404,
+    "significance": 804
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

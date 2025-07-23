@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - 158 km E of Kuril\u2019sk, Russia",
+    "magnitude": 7.2,
+    "date_time": "1996-02-07T21:36:00",
+    "latitude": 45.324,
+    "longitude": 149.892,
+    "location": "Kuril\u2019sk, Russia",
+    "depth": 42.6,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

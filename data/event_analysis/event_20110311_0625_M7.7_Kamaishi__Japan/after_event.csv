@@ -1,0 +1,4 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 6.5 - 81 km NE of Hasaki, Japan",6.5,2011-03-11 08:19:00,0,4,,0,650,us,369,0.0,18.7,mb,6.8,36.166,141.562,"Hasaki, Japan",,
+"M 6.6 - 50 km ESE of ?tsuchi, Japan",6.6,2011-03-11 11:36:00,6,5,,0,673,us,668,0.0,9.5,ms,25.7,39.241,142.463,"?tsuchi, Japan",,
+"M 7.1 - 29 km ESE of Ishinomaki, Japan",7.1,2011-04-07 14:32:00,8,8,,0,1114,us,446,0.0,17.7,mww,42.0,38.276,141.588,"Ishinomaki, Japan",Asia,Japan

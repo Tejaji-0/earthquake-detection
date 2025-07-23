@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.2 - South Sandwich Islands region",
+    "magnitude": 7.2,
+    "date_time": "2016-05-28T09:46:00",
+    "latitude": -56.2409,
+    "longitude": -26.9353,
+    "location": "South Sandwich Islands region",
+    "depth": 78.0,
+    "significance": 798
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

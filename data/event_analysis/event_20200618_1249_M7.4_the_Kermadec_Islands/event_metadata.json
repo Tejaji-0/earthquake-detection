@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - south of the Kermadec Islands",
+    "magnitude": 7.4,
+    "date_time": "2020-06-18T12:49:00",
+    "latitude": -33.2938,
+    "longitude": -177.838,
+    "location": "the Kermadec Islands",
+    "depth": 10.0,
+    "significance": 873
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

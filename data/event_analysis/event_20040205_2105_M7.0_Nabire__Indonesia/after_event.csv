@@ -1,0 +1,3 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.3 - Near the south coast of Papua, Indonesia",7.3,2004-02-07 02:42:00,0,7,,0,820,us,390,0.0,23.0,mwb,10.0,-4.003,135.023,"Papua, Indonesia",,Indonesia
+"M 6.7 - 38 km SSW of Nabire, Indonesia",6.7,2004-02-08 08:58:00,0,7,,0,691,us,256,0.0,33.3,mwc,25.7,-3.665,135.339,"Nabire, Indonesia",,Indonesia

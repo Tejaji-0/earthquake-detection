@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 220 km NNE of Palu, Indonesia",
+    "magnitude": 7.0,
+    "date_time": "1996-07-22T14:19:00",
+    "latitude": 1.0,
+    "longitude": 120.45,
+    "location": "Palu, Indonesia",
+    "depth": 33.0,
+    "significance": 754
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 1,
+    "events_after": 0
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 6.7 - 71 km S of Burica, Panama",
+    "magnitude": 6.7,
+    "date_time": "2021-07-21T21:15:00",
+    "latitude": 7.5904,
+    "longitude": -82.8813,
+    "location": "Burica, Panama",
+    "depth": 10.0,
+    "significance": 830
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

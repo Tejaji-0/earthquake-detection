@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.4 - 6 km E of Santiago Llano Grande, Mexico",
+    "magnitude": 7.4,
+    "date_time": "2012-03-20T18:02:00",
+    "latitude": 16.493,
+    "longitude": -98.231,
+    "location": "Santiago Llano Grande, Mexico",
+    "depth": 20.0,
+    "significance": 1752
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}

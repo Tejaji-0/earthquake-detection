@@ -1,0 +1,5 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 7.0 - 25 km WNW of Illapel, Chile",7.0,2015-09-16 23:18:00,8,7,green,0,799,us,0,0.903,13.0,mww,28.41,-31.5622,-71.4262,"Illapel, Chile",South America,Chile
+"M 6.5 - 54 km WNW of Illapel, Chile",6.5,2015-09-17 03:55:00,6,7,green,0,657,us,0,0.749,62.0,mww,27.0,-31.4244,-71.6876,"Illapel, Chile",,Chile
+"M 6.7 - 61 km WNW of Illapel, Chile",6.7,2015-09-17 04:10:00,5,7,green,0,718,us,0,0.853,35.0,mww,23.0,-31.5173,-71.804,"Illapel, Chile",,Chile
+"M 6.6 - 22 km WSW of Illapel, Chile",6.6,2015-09-21 17:40:00,5,7,green,1,820,us,0,1.064,14.0,mww,35.0,-31.7275,-71.3792,"Illapel, Chile",South America,Chile

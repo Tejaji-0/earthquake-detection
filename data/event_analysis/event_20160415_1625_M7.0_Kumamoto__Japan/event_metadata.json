@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.0 - 6 km ESE of Kumamoto, Japan",
+    "magnitude": 7.0,
+    "date_time": "2016-04-15T16:25:00",
+    "latitude": 32.7906,
+    "longitude": 130.754,
+    "location": "Kumamoto, Japan",
+    "depth": 10.0,
+    "significance": 2074
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 0
+  }
+}

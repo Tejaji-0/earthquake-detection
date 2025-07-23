@@ -1,0 +1,3 @@
+title,magnitude,date_time,cdi,mmi,alert,tsunami,sig,net,nst,dmin,gap,magType,depth,latitude,longitude,location,continent,country
+"M 8.1 - Kermadec Islands, New Zealand",8.1,2021-03-04 19:28:00,9,8,green,1,1021,us,0,0.739,21.0,mww,28.93,-29.7466,-177.224,"Kermadec Islands, New Zealand",,
+M 6.5 - Kermadec Islands region,6.5,2021-03-04 23:12:00,0,4,green,0,650,us,0,11.764,25.0,mwb,24.0,-28.4792,-176.619,Kermadec Islands region,,

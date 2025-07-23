@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 8.1 - 101 km ENE of Biak, Indonesia",
+    "magnitude": 8.09,
+    "date_time": "1996-02-17T05:59:00",
+    "latitude": -0.891,
+    "longitude": 136.952,
+    "location": "Biak, Indonesia",
+    "depth": 33.0,
+    "significance": 1007
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 2
+  }
+}

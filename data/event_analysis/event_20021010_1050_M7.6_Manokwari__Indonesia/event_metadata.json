@@ -1,0 +1,21 @@
+{
+  "main_event": {
+    "title": "M 7.6 - 102 km SSE of Manokwari, Indonesia",
+    "magnitude": 7.6,
+    "date_time": "2002-10-10T10:50:00",
+    "latitude": -1.757,
+    "longitude": 134.297,
+    "location": "Manokwari, Indonesia",
+    "depth": 10.0,
+    "significance": 889
+  },
+  "analysis_parameters": {
+    "days_before": 30,
+    "days_after": 30,
+    "radius_km": 500
+  },
+  "data_summary": {
+    "events_before": 0,
+    "events_after": 1
+  }
+}
