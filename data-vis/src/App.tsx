@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from 'react';
 import type { EarthquakeData, FilterOptions } from './types/earthquake';
-import { loadEarthquakeData, filterEarthquakeData } from './utils/dataLoader';
+import { loadCombinedData, filterEarthquakeData } from './utils/dataLoader';
 import FilterPanel from './components/FilterPanel';
 import EarthquakeTable from './components/EarthquakeTable';
 import EarthquakeCharts from './components/EarthquakeCharts';
@@ -25,7 +25,7 @@ function App() {
     const fetchData = async () => {
       setLoading(true);
       try {
-        const data = await loadEarthquakeData();
+        const data = await loadCombinedData();
         setEarthquakeData(data);
       } catch (error) {
         console.error('Failed to load earthquake data:', error);
@@ -60,7 +60,7 @@ function App() {
             <h1>Earthquake Data Visualization</h1>
           </div>
           <p className="header-subtitle">
-            Global Earthquake Data from 1995-2023 | Magnitude 6.5+
+            Enhanced Global Earthquake Database from 1995-2023 | Magnitude 6.5+ | Database Integration
           </p>
         </div>
       </header>
@@ -107,7 +107,7 @@ function App() {
 
       <footer className="app-footer">
         <p>
-          Data Source: Global Earthquake Database | 
+          Data Source: Enhanced Global Earthquake Database | Original + Database CSV Integration |
           Built with React, TypeScript & Chart.js
         </p>
       </footer>

@@ -37,8 +37,10 @@ const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
       bValue = bValue.toLowerCase();
     }
     
-    if (aValue < bValue) return sortDirection === 'asc' ? -1 : 1;
-    if (aValue > bValue) return sortDirection === 'asc' ? 1 : -1;
+    if (aValue !== undefined && bValue !== undefined) {
+      if (aValue < bValue) return sortDirection === 'asc' ? -1 : 1;
+      if (aValue > bValue) return sortDirection === 'asc' ? 1 : -1;
+    }
     return 0;
   });
 
@@ -67,23 +69,33 @@ const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
         <table className="earthquake-table">
           <thead>
             <tr>
+              {data.length > 0 && data[0].event_id && <SortHeader field="event_id">ID</SortHeader>}
               <SortHeader field="magnitude">Magnitude</SortHeader>
+              {data.length > 0 && data[0].magnitude_category && <SortHeader field="magnitude_category">Category</SortHeader>}
               <SortHeader field="date_time">Date & Time</SortHeader>
               <SortHeader field="location">Location</SortHeader>
               <SortHeader field="depth">Depth (km)</SortHeader>
               <SortHeader field="alert">Alert</SortHeader>
+              {data.length > 0 && data[0].alert_description && <SortHeader field="alert_description">Alert Level</SortHeader>}
               <th>Tsunami</th>
+              {data.length > 0 && data[0].tsunami_risk && <SortHeader field="tsunami_risk">Tsunami Risk</SortHeader>}
               <SortHeader field="sig">Significance</SortHeader>
             </tr>
           </thead>
           <tbody>
             {paginatedData.map((earthquake, index) => (
-              <tr key={index} className="earthquake-row">
+              <tr key={earthquake.event_id || index} className="earthquake-row">
+                {earthquake.event_id && <td className="id-cell">{earthquake.event_id}</td>}
                 <td 
                   className={`magnitude-cell magnitude-${Math.floor(earthquake.magnitude)}`}
                 >
                   <strong>{earthquake.magnitude.toFixed(1)}</strong>
                 </td>
+                {earthquake.magnitude_category && (
+                  <td className={`category-cell category-${earthquake.magnitude_category.toLowerCase()}`}>
+                    {earthquake.magnitude_category}
+                  </td>
+                )}
                 <td className="date-cell">{formatDate(earthquake.date_time)}</td>
                 <td className="location-cell">
                   <div className="location-info">
@@ -99,11 +111,21 @@ const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
                     {earthquake.alert || 'N/A'}
                   </span>
                 </td>
+                {earthquake.alert_description && (
+                  <td className={`alert-desc alert-desc-${earthquake.alert_description.toLowerCase()}`}>
+                    {earthquake.alert_description}
+                  </td>
+                )}
                 <td>
                   <span className={`tsunami-indicator ${earthquake.tsunami ? 'yes' : 'no'}`}>
                     {earthquake.tsunami ? 'Yes' : 'No'}
                   </span>
                 </td>
+                {earthquake.tsunami_risk && (
+                  <td className={`tsunami-risk tsunami-risk-${earthquake.tsunami_risk.toLowerCase()}`}>
+                    {earthquake.tsunami_risk}
+                  </td>
+                )}
                 <td>{earthquake.sig}</td>
               </tr>
             ))}

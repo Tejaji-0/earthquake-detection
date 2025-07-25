@@ -23,7 +23,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 class EarthquakeMLPipeline:
-    def __init__(self, data_path='earthquake_1995-2023.csv', output_dir='ml_models'):
+    def __init__(self, data_path='data/database.csv', output_dir='ml_models'):
         self.data_path = data_path
         self.output_dir = output_dir
         self.df = None
@@ -42,14 +42,25 @@ class EarthquakeMLPipeline:
         print("Loading earthquake data...")
         self.df = pd.read_csv(self.data_path)
         
-        # Convert date_time to datetime
-        self.df['date_time'] = pd.to_datetime(self.df['date_time'], format='%d-%m-%Y %H:%M')
+        # Handle different date formats
+        if 'date_time' in self.df.columns:
+            try:
+                # Try the original format first
+                self.df['date_time'] = pd.to_datetime(self.df['date_time'], format='%d-%m-%Y %H:%M')
+            except ValueError:
+                try:
+                    # Try standard ISO format
+                    self.df['date_time'] = pd.to_datetime(self.df['date_time'])
+                except ValueError:
+                    # Infer format
+                    self.df['date_time'] = pd.to_datetime(self.df['date_time'], infer_datetime_format=True)
         
         # Sort by datetime
         self.df = self.df.sort_values('date_time').reset_index(drop=True)
         
         print(f"Loaded {len(self.df)} earthquake records")
         print(f"Date range: {self.df['date_time'].min()} to {self.df['date_time'].max()}")
+        print(f"Columns available: {self.df.columns.tolist()}")
         
         return self.df
     
@@ -98,10 +109,19 @@ class EarthquakeMLPipeline:
         features_df['dmin'] = self.df['dmin'].fillna(self.df['dmin'].median())
         
         # Temporal features
-        features_df['year'] = self.df['date_time'].dt.year
-        features_df['month'] = self.df['date_time'].dt.month
-        features_df['day'] = self.df['date_time'].dt.day
-        features_df['hour'] = self.df['date_time'].dt.hour
+        if 'year' in self.df.columns:
+            # Use database fields if available
+            features_df['year'] = self.df['year']
+            features_df['month'] = self.df['month']
+            features_df['day'] = self.df['day'] 
+            features_df['hour'] = self.df['hour']
+        else:
+            # Extract from date_time
+            features_df['year'] = self.df['date_time'].dt.year
+            features_df['month'] = self.df['date_time'].dt.month
+            features_df['day'] = self.df['date_time'].dt.day
+            features_df['hour'] = self.df['date_time'].dt.hour
+        
         features_df['day_of_year'] = self.df['date_time'].dt.dayofyear
         features_df['day_of_week'] = self.df['date_time'].dt.dayofweek
         

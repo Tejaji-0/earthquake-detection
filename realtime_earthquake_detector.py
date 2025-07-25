@@ -537,7 +537,7 @@ def main():
             
         elif choice == '2':
             # Batch prediction
-            csv_file = input("Enter CSV file path (default: earthquake_1995-2023.csv): ") or "earthquake_1995-2023.csv"
+            csv_file = input("Enter CSV file path (default: data/database.csv): ") or "data/database.csv"
             detector.batch_predict_csv(csv_file)
                 
         elif choice == '3':

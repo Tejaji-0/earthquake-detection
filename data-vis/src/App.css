@@ -197,6 +197,89 @@ body {
     flex-direction: column;
     gap: 10px;
     text-align: center;
+/* Enhanced Database Table Styles */
+.id-cell {
+  font-family: 'Courier New', monospace;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+.category-cell {
+  font-weight: 600;
+  text-align: center;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.category-major {
+  background: #d32f2f;
+  color: white;
+}
+
+.category-strong {
+  background: #f57c00;
+  color: white;
+}
+
+.category-moderate {
+  background: #fbc02d;
+  color: #333;
+}
+
+.category-light {
+  background: #388e3c;
+  color: white;
+}
+
+.alert-desc {
+  font-size: 0.85rem;
+  padding: 2px 6px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.alert-desc-critical {
+  background: #ff1744;
+  color: white;
+  font-weight: bold;
+}
+
+.alert-desc-high {
+  background: #ff9800;
+  color: white;
+}
+
+.alert-desc-moderate {
+  background: #ffeb3b;
+  color: #333;
+}
+
+.alert-desc-low {
+  background: #4caf50;
+  color: white;
+}
+
+.alert-desc-none {
+  background: #e0e0e0;
+  color: #666;
+}
+
+.tsunami-risk {
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.tsunami-risk-yes {
+  color: #d32f2f;
+  font-weight: bold;
+}
+
+.tsunami-risk-no {
+  color: #4caf50;
+}
+
   }
   
   .header-title h1 {

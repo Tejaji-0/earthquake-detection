@@ -1,5 +1,5 @@
 import Papa from 'papaparse';
-import type { EarthquakeData } from '../types/earthquake';
+import type { EarthquakeData, DatabaseData } from '../types/earthquake';
 
 export const loadEarthquakeData = async (): Promise<EarthquakeData[]> => {
   try {
@@ -27,6 +27,52 @@ export const loadEarthquakeData = async (): Promise<EarthquakeData[]> => {
   } catch (error) {
     console.error('Error loading earthquake data:', error);
     return [];
+  }
+};
+
+export const loadDatabaseData = async (): Promise<DatabaseData[]> => {
+  try {
+    const response = await fetch('/database.csv');
+    const csvText = await response.text();
+    
+    const parsed = Papa.parse<DatabaseData>(csvText, {
+      header: true,
+      skipEmptyLines: true,
+      transform: (value, field) => {
+        // Convert numeric fields
+        if (typeof field === 'string' && ['event_id', 'magnitude', 'year', 'month', 'day', 'hour', 'cdi', 'mmi', 'tsunami', 'sig', 'nst', 'dmin', 'gap', 'depth', 'latitude', 'longitude'].includes(field)) {
+          const num = parseFloat(value);
+          return isNaN(num) ? 0 : num;
+        }
+        return value;
+      }
+    });
+
+    if (parsed.errors.length > 0) {
+      console.warn('Database CSV parsing errors:', parsed.errors);
+    }
+
+    return parsed.data.filter(row => row.title && row.magnitude); // Filter out invalid rows
+  } catch (error) {
+    console.error('Error loading database data:', error);
+    return [];
+  }
+};
+
+export const loadCombinedData = async (): Promise<EarthquakeData[]> => {
+  try {
+    // Try to load database.csv first, fall back to original if it fails
+    const databaseData = await loadDatabaseData();
+    if (databaseData.length > 0) {
+      console.log('Loaded enhanced database data with', databaseData.length, 'records');
+      return databaseData;
+    } else {
+      console.log('Falling back to original earthquake data');
+      return await loadEarthquakeData();
+    }
+  } catch (error) {
+    console.error('Error loading combined data, falling back to original:', error);
+    return await loadEarthquakeData();
   }
 };
 
