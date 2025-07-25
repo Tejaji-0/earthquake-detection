@@ -71,6 +71,7 @@ export const filterEarthquakeData = (
     endDate?: string;
     location?: string;
     alertLevel?: string;
+    country?: string;
   }
 ): EarthquakeData[] => {
   return data.filter(earthquake => {
@@ -95,6 +96,12 @@ export const filterEarthquakeData = (
     if (filters.location && 
         !earthquake.location?.toLowerCase().includes(filters.location.toLowerCase()) &&
         !earthquake.ID?.toLowerCase().includes(filters.location.toLowerCase())) {
+      return false;
+    }
+
+    // Country filter
+    if (filters.country && 
+        !earthquake.Country?.toLowerCase().includes(filters.country.toLowerCase())) {
       return false;
     }
 

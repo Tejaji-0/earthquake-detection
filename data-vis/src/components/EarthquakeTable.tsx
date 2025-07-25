@@ -74,6 +74,7 @@ const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
               <SortHeader field="Magnitude">Magnitude</SortHeader>
               <SortHeader field="date_time">Date & Time</SortHeader>
               <SortHeader field="location">Location</SortHeader>
+              <SortHeader field="Country">Country</SortHeader>
               <SortHeader field="Depth">Depth (km)</SortHeader>
               <SortHeader field="alert">Alert</SortHeader>
               <SortHeader field="Magnitude Type">Mag Type</SortHeader>
@@ -94,6 +95,9 @@ const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
                     <div className="location-title">{earthquake.location || `${earthquake.Latitude.toFixed(2)}°, ${earthquake.Longitude.toFixed(2)}°`}</div>
                     <div className="coords">ID: {earthquake.ID}</div>
                   </div>
+                </td>
+                <td className="country-cell">
+                  <span className="country-name">{earthquake.Country || 'Unknown'}</span>
                 </td>
                 <td>{earthquake.Depth ? earthquake.Depth.toFixed(1) : 'N/A'}</td>
                 <td>

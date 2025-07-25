@@ -19,6 +19,7 @@ function App() {
     endDate: '2025-12-31',
     location: '',
     alertLevel: '',
+    country: '',
   });
 
   useEffect(() => {

@@ -20,6 +20,7 @@ export interface EarthquakeData {
   'Location Source': string;
   'Magnitude Source': string;
   Status: string;
+  Country: string;
   // Computed fields for compatibility
   date_time?: string;
   location?: string;
@@ -34,4 +35,5 @@ export interface FilterOptions {
   endDate: string;
   location: string;
   alertLevel: string;
+  country: string;
 }

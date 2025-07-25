@@ -101,19 +101,31 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
     ],
   };
 
-  // Source distribution (replacing tsunami chart since database.csv doesn't have tsunami data)
-  const sources = [...new Set(data.map(eq => eq.Source).filter(s => s))].slice(0, 5);
-  const sourceCounts = sources.map(source => 
-    data.filter(eq => eq.Source === source).length
-  );
+  // Top countries/regions by earthquake count
+  const countries = [...new Set(data.map(eq => eq.Country).filter(c => c && c !== 'Unknown'))];
+  const countryCounts = countries
+    .map(country => ({
+      country,
+      count: data.filter(eq => eq.Country === country).length
+    }))
+    .sort((a, b) => b.count - a.count)
+    .slice(0, 8); // Top 8 countries
 
-  const sourceData = {
-    labels: sources,
+  const countryData = {
+    labels: countryCounts.map(item => 
+      item.country.length > 15 ? item.country.substring(0, 15) + '...' : item.country
+    ),
     datasets: [
       {
-        data: sourceCounts,
-        backgroundColor: ['#007bff', '#28a745', '#ffc107', '#dc3545', '#6f42c1'],
-        borderColor: ['#0056b3', '#1e7e34', '#e0a800', '#c82333', '#5a2d91'],
+        data: countryCounts.map(item => item.count),
+        backgroundColor: [
+          '#007bff', '#28a745', '#ffc107', '#dc3545', 
+          '#6f42c1', '#fd7e14', '#20c997', '#e83e8c'
+        ],
+        borderColor: [
+          '#0056b3', '#1e7e34', '#e0a800', '#c82333',
+          '#5a2d91', '#e8570c', '#17a2b8', '#d1477e'
+        ],
         borderWidth: 2,
       },
     ],
@@ -163,8 +175,8 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
         </div>
         
         <div className="chart-container small">
-          <h3>Data Source Distribution</h3>
-          <Doughnut data={sourceData} options={doughnutOptions} />
+          <h3>Top Countries/Regions</h3>
+          <Doughnut data={countryData} options={doughnutOptions} />
         </div>
       </div>
 
@@ -190,6 +202,12 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
             {data.filter(eq => eq.Depth && eq.Depth > 100).length}
           </span>
           <span className="stat-label">Deep Events (&gt;100km)</span>
+        </div>
+        <div className="stat-item">
+          <span className="stat-value">
+            {new Set(data.map(eq => eq.Country).filter(c => c && c !== 'Unknown')).size}
+          </span>
+          <span className="stat-label">Countries/Regions</span>
         </div>
       </div>
     </div>
