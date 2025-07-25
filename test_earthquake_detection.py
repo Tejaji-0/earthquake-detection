@@ -31,7 +31,7 @@ def test_models():
     
     # Load some sample data
     print("\nLoading sample earthquake data...")
-    df = pd.read_csv('earthquake_1995-2023.csv')
+    df = pd.read_csv('data/earthquake_1995-2023.csv')
     df['date_time'] = pd.to_datetime(df['date_time'], format='%d-%m-%Y %H:%M')
     
     # Test on first 10 earthquakes

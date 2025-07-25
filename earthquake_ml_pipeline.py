@@ -23,7 +23,7 @@ import warnings
 warnings.filterwarnings('ignore')
 
 class EarthquakeMLPipeline:
-    def __init__(self, data_path='earthquake_1995-2023.csv', output_dir='ml_models'):
+    def __init__(self, data_path='data/earthquake_1995-2023.csv', output_dir='ml_models'):
         self.data_path = data_path
         self.output_dir = output_dir
         self.df = None

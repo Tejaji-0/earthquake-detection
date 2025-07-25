@@ -67,7 +67,17 @@ const FilterPanel: React.FC<FilterPanelProps> = ({ filters, onFiltersChange }) =
           type="text"
           value={filters.location}
           onChange={(e) => handleFilterChange('location', e.target.value)}
-          placeholder="Search by location or country"
+          placeholder="Search by location"
+        />
+      </div>
+
+      <div className="filter-group">
+        <label>Country/Region:</label>
+        <input
+          type="text"
+          value={filters.country}
+          onChange={(e) => handleFilterChange('country', e.target.value)}
+          placeholder="Search by country or region"
         />
       </div>
 

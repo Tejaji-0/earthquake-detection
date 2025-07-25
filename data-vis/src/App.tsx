@@ -13,12 +13,13 @@ function App() {
   const [loading, setLoading] = useState(true);
   const [activeTab, setActiveTab] = useState<'overview' | 'table' | 'analysis'>('overview');
   const [filters, setFilters] = useState<FilterOptions>({
-    minMagnitude: 6.5,
+    minMagnitude: 5.0,
     maxMagnitude: 9.5,
-    startDate: '1995-01-01',
-    endDate: '2023-12-31',
+    startDate: '1965-01-01',
+    endDate: '2025-12-31',
     location: '',
     alertLevel: '',
+    country: '',
   });
 
   useEffect(() => {
@@ -60,7 +61,7 @@ function App() {
             <h1>Earthquake Data Visualization</h1>
           </div>
           <p className="header-subtitle">
-            Global Earthquake Data from 1995-2023 | Magnitude 6.5+
+            Global Earthquake Database from 1965-2025 | Magnitude 5.0+
           </p>
         </div>
       </header>

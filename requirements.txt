@@ -21,6 +21,10 @@ plotly>=5.0.0
 jupyter>=1.0.0
 ipykernel>=6.0.0
 
+# Geocoding and geographical data
+geopy>=2.3.0
+pycountry>=22.0.0
+
 # Additional utilities
 tqdm>=4.64.0
 joblib>=1.1.0
