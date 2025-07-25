@@ -37,9 +37,9 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
     
     return data.filter(eq => {
       if (maxStr === '8.5+') {
-        return eq.magnitude >= minVal;
+        return eq.Magnitude >= minVal;
       }
-      return eq.magnitude >= minVal && eq.magnitude <= maxVal;
+      return eq.Magnitude >= minVal && eq.Magnitude <= maxVal;
     }).length;
   });
 
@@ -69,7 +69,7 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
   };
 
   // Alert level distribution
-  const alertLevels = ['green', 'yellow', 'red', 'none'];
+  const alertLevels = ['green', 'yellow', 'orange', 'red', 'none'];
   const alertCounts = alertLevels.map(level => {
     if (level === 'none') {
       return data.filter(eq => !eq.alert || eq.alert === '').length;
@@ -78,19 +78,21 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
   });
 
   const alertChartData = {
-    labels: ['Green', 'Yellow', 'Red', 'None'],
+    labels: ['Green', 'Yellow', 'Orange', 'Red', 'None'],
     datasets: [
       {
         data: alertCounts,
         backgroundColor: [
           '#28a745',
           '#ffc107',
+          '#fd7e14',
           '#dc3545',
           '#6c757d',
         ],
         borderColor: [
           '#1e7e34',
           '#e0a800',
+          '#e8570c',
           '#c82333',
           '#5a6268',
         ],
@@ -99,17 +101,19 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
     ],
   };
 
-  // Tsunami potential distribution
-  const tsunamiData = {
-    labels: ['Tsunami Potential', 'No Tsunami Potential'],
+  // Source distribution (replacing tsunami chart since database.csv doesn't have tsunami data)
+  const sources = [...new Set(data.map(eq => eq.Source).filter(s => s))].slice(0, 5);
+  const sourceCounts = sources.map(source => 
+    data.filter(eq => eq.Source === source).length
+  );
+
+  const sourceData = {
+    labels: sources,
     datasets: [
       {
-        data: [
-          data.filter(eq => eq.tsunami === 1).length,
-          data.filter(eq => eq.tsunami === 0).length,
-        ],
-        backgroundColor: ['#dc3545', '#28a745'],
-        borderColor: ['#c82333', '#1e7e34'],
+        data: sourceCounts,
+        backgroundColor: ['#007bff', '#28a745', '#ffc107', '#dc3545', '#6f42c1'],
+        borderColor: ['#0056b3', '#1e7e34', '#e0a800', '#c82333', '#5a2d91'],
         borderWidth: 2,
       },
     ],
@@ -159,8 +163,8 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
         </div>
         
         <div className="chart-container small">
-          <h3>Tsunami Potential</h3>
-          <Doughnut data={tsunamiData} options={doughnutOptions} />
+          <h3>Data Source Distribution</h3>
+          <Doughnut data={sourceData} options={doughnutOptions} />
         </div>
       </div>
 
@@ -171,21 +175,21 @@ const EarthquakeCharts: React.FC<EarthquakeChartsProps> = ({ data }) => {
         </div>
         <div className="stat-item">
           <span className="stat-value">
-            {data.length > 0 ? (data.reduce((sum, eq) => sum + eq.magnitude, 0) / data.length).toFixed(1) : '0'}
+            {data.length > 0 ? (data.reduce((sum, eq) => sum + eq.Magnitude, 0) / data.length).toFixed(1) : '0'}
           </span>
           <span className="stat-label">Average Magnitude</span>
         </div>
         <div className="stat-item">
           <span className="stat-value">
-            {data.length > 0 ? Math.max(...data.map(eq => eq.magnitude)).toFixed(1) : '0'}
+            {data.length > 0 ? Math.max(...data.map(eq => eq.Magnitude)).toFixed(1) : '0'}
           </span>
           <span className="stat-label">Highest Magnitude</span>
         </div>
         <div className="stat-item">
           <span className="stat-value">
-            {data.filter(eq => eq.tsunami === 1).length}
+            {data.filter(eq => eq.Depth && eq.Depth > 100).length}
           </span>
-          <span className="stat-label">Tsunami Events</span>
+          <span className="stat-label">Deep Events (&gt;100km)</span>
         </div>
       </div>
     </div>

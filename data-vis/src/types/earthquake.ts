@@ -1,23 +1,30 @@
 export interface EarthquakeData {
-  title: string;
-  magnitude: number;
-  date_time: string;
-  cdi: number;
-  mmi: number;
-  alert: string;
-  tsunami: number;
-  sig: number;
-  net: string;
-  nst: number;
-  dmin: number;
-  gap: number;
-  magType: string;
-  depth: number;
-  latitude: number;
-  longitude: number;
-  location: string;
-  continent: string;
-  country: string;
+  Date: string;
+  Time: string;
+  Latitude: number;
+  Longitude: number;
+  Type: string;
+  Depth: number;
+  'Depth Error': number;
+  'Depth Seismic Stations': number;
+  Magnitude: number;
+  'Magnitude Type': string;
+  'Magnitude Error': number;
+  'Magnitude Seismic Stations': number;
+  'Azimuthal Gap': number;
+  'Horizontal Distance': number;
+  'Horizontal Error': number;
+  'Root Mean Square': number;
+  ID: string;
+  Source: string;
+  'Location Source': string;
+  'Magnitude Source': string;
+  Status: string;
+  // Computed fields for compatibility
+  date_time?: string;
+  location?: string;
+  title?: string;
+  alert?: string;
 }
 
 export interface FilterOptions {

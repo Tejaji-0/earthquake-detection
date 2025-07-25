@@ -12,7 +12,7 @@ type SortField = keyof EarthquakeData;
 type SortDirection = 'asc' | 'desc';
 
 const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
-  const [sortField, setSortField] = useState<SortField>('magnitude');
+  const [sortField, setSortField] = useState<SortField>('Magnitude');
   const [sortDirection, setSortDirection] = useState<SortDirection>('desc');
   const [currentPage, setCurrentPage] = useState(1);
   const itemsPerPage = 20;
@@ -30,6 +30,10 @@ const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
   const sortedData = [...data].sort((a, b) => {
     let aValue = a[sortField];
     let bValue = b[sortField];
+    
+    // Handle undefined values
+    if (aValue === undefined) aValue = '';
+    if (bValue === undefined) bValue = '';
     
     // Handle string comparison
     if (typeof aValue === 'string' && typeof bValue === 'string') {
@@ -67,44 +71,38 @@ const EarthquakeTable: React.FC<EarthquakeTableProps> = ({ data }) => {
         <table className="earthquake-table">
           <thead>
             <tr>
-              <SortHeader field="magnitude">Magnitude</SortHeader>
+              <SortHeader field="Magnitude">Magnitude</SortHeader>
               <SortHeader field="date_time">Date & Time</SortHeader>
               <SortHeader field="location">Location</SortHeader>
-              <SortHeader field="depth">Depth (km)</SortHeader>
+              <SortHeader field="Depth">Depth (km)</SortHeader>
               <SortHeader field="alert">Alert</SortHeader>
-              <th>Tsunami</th>
-              <SortHeader field="sig">Significance</SortHeader>
+              <SortHeader field="Magnitude Type">Mag Type</SortHeader>
+              <SortHeader field="Source">Source</SortHeader>
             </tr>
           </thead>
           <tbody>
             {paginatedData.map((earthquake, index) => (
               <tr key={index} className="earthquake-row">
                 <td 
-                  className={`magnitude-cell magnitude-${Math.floor(earthquake.magnitude)}`}
+                  className={`magnitude-cell magnitude-${Math.floor(earthquake.Magnitude)}`}
                 >
-                  <strong>{earthquake.magnitude.toFixed(1)}</strong>
+                  <strong>{earthquake.Magnitude.toFixed(1)}</strong>
                 </td>
-                <td className="date-cell">{formatDate(earthquake.date_time)}</td>
+                <td className="date-cell">{formatDate(earthquake.date_time || `${earthquake.Date} ${earthquake.Time}`)}</td>
                 <td className="location-cell">
                   <div className="location-info">
-                    <div className="location-title">{earthquake.location}</div>
-                    {earthquake.country && (
-                      <div className="country">{earthquake.country}</div>
-                    )}
+                    <div className="location-title">{earthquake.location || `${earthquake.Latitude.toFixed(2)}°, ${earthquake.Longitude.toFixed(2)}°`}</div>
+                    <div className="coords">ID: {earthquake.ID}</div>
                   </div>
                 </td>
-                <td>{earthquake.depth.toFixed(1)}</td>
+                <td>{earthquake.Depth ? earthquake.Depth.toFixed(1) : 'N/A'}</td>
                 <td>
                   <span className={`alert-badge alert-${earthquake.alert || 'none'}`}>
                     {earthquake.alert || 'N/A'}
                   </span>
                 </td>
-                <td>
-                  <span className={`tsunami-indicator ${earthquake.tsunami ? 'yes' : 'no'}`}>
-                    {earthquake.tsunami ? 'Yes' : 'No'}
-                  </span>
-                </td>
-                <td>{earthquake.sig}</td>
+                <td>{earthquake['Magnitude Type'] || 'N/A'}</td>
+                <td>{earthquake.Source || 'N/A'}</td>
               </tr>
             ))}
           </tbody>
