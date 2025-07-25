@@ -1,0 +1,57 @@
+{
+  "task": "major_earthquake",
+  "selected_features": [
+    "magnitude",
+    "magnitude_squared",
+    "magnitude_log",
+    "depth_log",
+    "lon_abs",
+    "distance_from_prime_meridian",
+    "significance",
+    "significance_log",
+    "alert_encoded",
+    "num_stations",
+    "gap",
+    "dmin",
+    "year",
+    "day",
+    "hour",
+    "day_of_week",
+    "recent_activity_30d",
+    "recent_activity_7d",
+    "magnitude_trend_7d",
+    "magnitude_trend_30d"
+  ],
+  "model_performances": {
+    "Random Forest": {
+      "cv_auc_mean": 1.0,
+      "cv_auc_std": 0.0,
+      "test_roc_auc": 1.0
+    },
+    "Gradient Boosting": {
+      "cv_auc_mean": 1.0,
+      "cv_auc_std": 0.0,
+      "test_roc_auc": 1.0
+    },
+    "SVM": {
+      "cv_auc_mean": 0.9939523866979224,
+      "cv_auc_std": 0.004220111266013718,
+      "test_roc_auc": 0.9919801863427291
+    },
+    "Neural Network": {
+      "cv_auc_mean": 0.9995176617944475,
+      "cv_auc_std": 0.0006290017616954594,
+      "test_roc_auc": 0.9950465856822738
+    }
+  },
+  "training_date": "2025-07-24T07:24:37.371245",
+  "data_size": 1000,
+  "feature_count": 33,
+  "selected_feature_count": 20,
+  "best_hyperparameters": {
+    "max_depth": 10,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "n_estimators": 100
+  }
+}

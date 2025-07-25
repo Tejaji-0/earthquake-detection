@@ -1,0 +1,57 @@
+{
+  "task": "tsunami_generating",
+  "selected_features": [
+    "depth",
+    "depth_log",
+    "depth_normalized",
+    "latitude",
+    "longitude",
+    "lat_abs",
+    "lon_abs",
+    "distance_from_equator",
+    "distance_from_prime_meridian",
+    "alert_encoded",
+    "tsunami",
+    "num_stations",
+    "gap",
+    "dmin",
+    "year",
+    "month",
+    "day_of_year",
+    "sin_month",
+    "cos_month",
+    "cos_hour"
+  ],
+  "model_performances": {
+    "Random Forest": {
+      "cv_auc_mean": 1.0,
+      "cv_auc_std": 0.0,
+      "test_roc_auc": 1.0
+    },
+    "Gradient Boosting": {
+      "cv_auc_mean": 1.0,
+      "cv_auc_std": 0.0,
+      "test_roc_auc": 1.0
+    },
+    "SVM": {
+      "cv_auc_mean": 0.9998931623931624,
+      "cv_auc_std": 0.00014245014245016228,
+      "test_roc_auc": 1.0
+    },
+    "Neural Network": {
+      "cv_auc_mean": 1.0,
+      "cv_auc_std": 0.0,
+      "test_roc_auc": 1.0
+    }
+  },
+  "training_date": "2025-07-24T07:24:53.451223",
+  "data_size": 1000,
+  "feature_count": 33,
+  "selected_feature_count": 20,
+  "best_hyperparameters": {
+    "max_depth": 10,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "n_estimators": 100
+  }
+}
